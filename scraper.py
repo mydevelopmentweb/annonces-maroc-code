@@ -60,7 +60,13 @@ def sauvegarder_json(chemin, contenu):
 def recuperer_tableau():
     """Télécharge la page et retourne le tableau des concours sous forme de liste de dictionnaires."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; AnnoncesMarocBot/1.0; +contact-du-projet)"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "fr-FR,fr;q=0.9",
+        "Referer": "https://www.emploi-public.ma/fr/",
     }
     reponse = requests.get(URL, headers=headers, timeout=30, verify=False)
     reponse.raise_for_status()
