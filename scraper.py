@@ -132,19 +132,39 @@ def recuperer_via_liste_desktop(session):
     resultats = []
     for lien in liens:
         bloc_texte = lien.get_text(separator=" | ", strip=True)
+        bloc_texte = re.sub(r"\s+", " ", bloc_texte)  # nettoie les retours à la ligne/espaces multiples
         if not bloc_texte:
             continue
+
+        parties = [p.strip() for p in bloc_texte.split(" | ") if p.strip()]
 
         limite = re.search(r"Limite de dépôt\s*:\s*([^|]+)", bloc_texte)
         date_concours = re.search(r"Date du concours\s*:\s*([^|]+)", bloc_texte)
         postes = re.search(r"Annonce\s*(\d+)\s*poste", bloc_texte)
 
+        # Le titre du poste est généralement répété au début (une fois en gras, une fois en texte
+        # normal) ; on déduplique, puis on suppose que la première partie restante est le titre,
+        # et la deuxième (si elle ne contient pas "Limite"/"Date"/"Annonce") est l'organisme.
+        titre = parties[0] if parties else ""
+        organisme = ""
+        for partie in parties[1:]:
+            if any(mot in partie for mot in ["Limite de dépôt", "Date du concours", "Annonce"]):
+                break
+            if partie.strip().lower() != titre.strip().lower():
+                organisme = partie
+                break
+
+        def nettoyer_date(texte_date):
+            if not texte_date:
+                return ""
+            return re.sub(r"\s+", " ", texte_date).strip()
+
         resultats.append({
-            "Administration organisatrice": bloc_texte.split(" | ")[0][:200],
-            "Grade": bloc_texte.split(" | ")[0][:200],
+            "Administration organisatrice": organisme or "À vérifier manuellement",
+            "Grade": titre[:300],
             "Nombre postes": postes.group(1) if postes else "",
-            "Délai dépôt": limite.group(1).strip() if limite else "",
-            "Date concours": date_concours.group(1).strip() if date_concours else "",
+            "Délai dépôt": nettoyer_date(limite.group(1) if limite else ""),
+            "Date concours": nettoyer_date(date_concours.group(1) if date_concours else ""),
             "Date publication": "",
             "lien": "https://www.emploi-public.ma" + lien["href"] if lien["href"].startswith("/") else lien["href"],
         })
