@@ -193,5 +193,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5d7f35fd-ec41-4e49-b0f3-7a039e6ccc39"
     },
     "numero_issue": 13
+  },
+  {
+    "id": "marsa maroc|مدبر انظمة المعلومات administrateur si|https://www.emploi-public.ma/fr/concours/details/cb731201-3a80-4b5f-8a64-279dc3252f32",
+    "date_detection": "2026-09-13T23:03:27.042818",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Marsa Maroc",
+      "Grade": "مدبر انظمة المعلومات Administrateur SI",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cb731201-3a80-4b5f-8a64-279dc3252f32"
+    },
+    "numero_issue": 14
+  },
+  {
+    "id": "ministère de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts - département de la pêche maritime|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/83a2950e-6639-4d19-9929-905dc8ce645a",
+    "date_detection": "2026-09-13T23:03:27.042830",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Agriculture, de la Pêche maritime, du développement rural et des eaux et forêts - Département de la Pêche maritime",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026 - 16:00",
+      "Date concours": "6 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/83a2950e-6639-4d19-9929-905dc8ce645a"
+    },
+    "numero_issue": 15
+  },
+  {
+    "id": "caisse nationale de sécurité sociale|techniciens spécialisés|https://www.emploi-public.ma/fr/concours/details/c878a313-41b0-4d4e-b534-ce5a1329083d",
+    "date_detection": "2026-09-13T23:03:27.042834",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse Nationale de Sécurité Sociale",
+      "Grade": "Techniciens Spécialisés",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c878a313-41b0-4d4e-b534-ce5a1329083d"
+    },
+    "numero_issue": 16
+  },
+  {
+    "id": "caisse nationale de sécurité sociale|cadres supérieurs bac+5|https://www.emploi-public.ma/fr/concours/details/51ad3b7e-5737-4c0a-a4c3-c08d982ddf52",
+    "date_detection": "2026-09-13T23:03:27.042837",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse Nationale de Sécurité Sociale",
+      "Grade": "Cadres Supérieurs Bac+5",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/51ad3b7e-5737-4c0a-a4c3-c08d982ddf52"
+    },
+    "numero_issue": 17
   }
 ]
