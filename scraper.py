@@ -16,6 +16,12 @@ from datetime import datetime
 
 import pandas as pd
 import requests
+import urllib3
+
+# Le site source a un certificat SSL mal configuré (auto-signé) — on désactive
+# la vérification stricte, sans risque ici car on ne fait que lire des pages
+# publiques (aucune donnée sensible envoyée).
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 URL = "https://m.emploi-public.ma/fr/concoursListe.asp"
 
@@ -56,7 +62,7 @@ def recuperer_tableau():
     headers = {
         "User-Agent": "Mozilla/5.0 (compatible; AnnoncesMarocBot/1.0; +contact-du-projet)"
     }
-    reponse = requests.get(URL, headers=headers, timeout=30)
+    reponse = requests.get(URL, headers=headers, timeout=30, verify=False)
     reponse.raise_for_status()
 
     tableaux = pd.read_html(reponse.text)
