@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write  # autorise le workflow à sauvegarder les résultats dans le dépôt
+  issues: write    # autorise le workflow à créer des Issues de validation
 
 jobs:
   scrape:
@@ -26,6 +27,11 @@ jobs:
 
       - name: Lancer le scraper
         run: python scraper.py
+
+      - name: Créer les Issues de validation
+        run: python creer_issues.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sauvegarder les résultats dans le dépôt
         run: |
