@@ -2,7 +2,7 @@
   {
     "id": "ministère de la solidarité, de l’insertion sociale et de la famille|avis de concours de recrutement de technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366",
     "date_detection": "2026-09-13T16:03:38.038106",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
       "Grade": "Avis de concours de recrutement de Technicien de 3ème grade - Echelle 9",
@@ -11,12 +11,13 @@
       "Date concours": "4 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366"
-    }
+    },
+    "numero_issue": 1
   },
   {
     "id": "ministère de la solidarité, de l’insertion sociale et de la famille|avis de concours de recrutement de administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f",
     "date_detection": "2026-09-13T16:03:38.038118",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
       "Grade": "Avis de concours de recrutement de Administrateur 3ème grade - Echelle 10",
@@ -25,12 +26,13 @@
       "Date concours": "4 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f"
-    }
+    },
+    "numero_issue": 2
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/57d80740-6401-4401-88e8-1545790f97b6",
     "date_detection": "2026-09-13T16:03:38.038123",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Technicien de 3ème grade - Echelle 9",
@@ -39,12 +41,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/57d80740-6401-4401-88e8-1545790f97b6"
-    }
+    },
+    "numero_issue": 3
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/258ae7cf-4ace-405f-8c04-4eaa8649eb9d",
     "date_detection": "2026-09-13T16:03:38.038127",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Administrateur 2ème grade - Echelle 11",
@@ -53,12 +56,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/258ae7cf-4ace-405f-8c04-4eaa8649eb9d"
-    }
+    },
+    "numero_issue": 4
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de inspecteur du travail de 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/a1b4a843-7eaa-488b-b9d1-8910a73d24cd",
     "date_detection": "2026-09-13T16:03:38.038131",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Inspecteur du travail de 3ème grade - Echelle 10",
@@ -67,12 +71,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/a1b4a843-7eaa-488b-b9d1-8910a73d24cd"
-    }
+    },
+    "numero_issue": 5
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de inspecteur du travail de 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/aa36d343-5ddc-4365-9405-9ead81bbf772",
     "date_detection": "2026-09-13T16:03:38.038135",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Inspecteur du travail de 2ème grade - Echelle 11",
@@ -81,12 +86,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/aa36d343-5ddc-4365-9405-9ead81bbf772"
-    }
+    },
+    "numero_issue": 6
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/ea15f5d2-3657-48c0-83d4-da029a7af7ca",
     "date_detection": "2026-09-13T16:03:38.038139",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Ingénieur d'Etat 1er grade - Echelle 11",
@@ -95,12 +101,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/ea15f5d2-3657-48c0-83d4-da029a7af7ca"
-    }
+    },
+    "numero_issue": 7
   },
   {
     "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|avis de concours de recrutement de médecins premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/4bce4152-8b28-45d0-b869-c883f18864db",
     "date_detection": "2026-09-13T16:03:38.038146",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
       "Grade": "Avis de concours de recrutement de Médecins premier grade - Echelle 11",
@@ -109,12 +116,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/4bce4152-8b28-45d0-b869-c883f18864db"
-    }
+    },
+    "numero_issue": 8
   },
   {
     "id": "ministère de l’intérieur -province de tata-|avis de concours de recrutement de ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/a25bed63-cd17-4f71-abb9-60827ddb43c0",
     "date_detection": "2026-09-13T16:03:38.038150",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Ministère de l’intérieur -Province de Tata-",
       "Grade": "Avis de concours de recrutement de Ingénieur d'Etat 1er grade - Echelle 11",
@@ -123,12 +131,13 @@
       "Date concours": "10 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/a25bed63-cd17-4f71-abb9-60827ddb43c0"
-    }
+    },
+    "numero_issue": 9
   },
   {
     "id": "province nouaceur|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/b0b416ee-bdd7-401f-aeb6-3284ea853aeb",
     "date_detection": "2026-09-13T16:03:38.038154",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Province Nouaceur",
       "Grade": "Technicien de 3ème grade - echelle 9",
@@ -137,12 +146,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/b0b416ee-bdd7-401f-aeb6-3284ea853aeb"
-    }
+    },
+    "numero_issue": 10
   },
   {
     "id": "province nouaceur|infirmier de premier grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/bab44ec2-c7f4-4bb6-b1f5-f15a3bf8f042",
     "date_detection": "2026-09-13T16:03:38.038156",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Province Nouaceur",
       "Grade": "Infirmier de premier grade - echelle 10",
@@ -151,12 +161,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/bab44ec2-c7f4-4bb6-b1f5-f15a3bf8f042"
-    }
+    },
+    "numero_issue": 11
   },
   {
     "id": "province nouaceur|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/300cc312-ec81-48ff-ad12-134584efc6f5",
     "date_detection": "2026-09-13T16:03:38.038159",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Province Nouaceur",
       "Grade": "Technicien de 3ème grade - echelle 9",
@@ -165,12 +176,13 @@
       "Date concours": "18 Octobre 2026",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/300cc312-ec81-48ff-ad12-134584efc6f5"
-    }
+    },
+    "numero_issue": 12
   },
   {
     "id": "atlas multiservices|hôtesses de l’air et stewards|https://www.emploi-public.ma/fr/concours/details/5d7f35fd-ec41-4e49-b0f3-7a039e6ccc39",
     "date_detection": "2026-09-13T16:03:38.038162",
-    "statut": "en_attente_validation",
+    "statut": "issue_creee",
     "donnees": {
       "Administration organisatrice": "Atlas Multiservices",
       "Grade": "HÔTESSES DE L’AIR et STEWARDS",
@@ -179,6 +191,7 @@
       "Date concours": "",
       "Date publication": "",
       "lien": "https://www.emploi-public.ma/fr/concours/details/5d7f35fd-ec41-4e49-b0f3-7a039e6ccc39"
-    }
+    },
+    "numero_issue": 13
   }
 ]
