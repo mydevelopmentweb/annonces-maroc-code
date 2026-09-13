@@ -2,7 +2,7 @@
 Scraper minimal — Concours de recrutement (emploi-public.ma)
 --------------------------------------------------------------
 Ce script :
-1. Récupère la liste des concours depuis la version tableau du site
+1. Récupère la liste des concours (essaie plusieurs pages/méthodes en cas de blocage)
 2. Compare avec les concours déjà connus (fichier data/seen_concours.json)
 3. Ajoute les nouveaux concours dans data/a_valider.json (en attente de validation)
 
@@ -11,25 +11,29 @@ Il ne publie rien automatiquement — la validation humaine reste une étape sé
 
 import json
 import os
+import re
 import sys
+import time
 from datetime import datetime
 
 import pandas as pd
 import requests
 import urllib3
+from bs4 import BeautifulSoup
 
-# Le site source a un certificat SSL mal configuré (auto-signé) — on désactive
-# la vérification stricte, sans risque ici car on ne fait que lire des pages
-# publiques (aucune donnée sensible envoyée).
+# Le site source a un certificat SSL mal configuré (auto-signé) sur certaines
+# pages — on désactive la vérification stricte, sans risque ici car on ne fait
+# que lire des pages publiques (aucune donnée sensible envoyée).
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-URL = "https://m.emploi-public.ma/fr/concoursListe.asp"
+URL_MOBILE_TABLEAU = "https://m.emploi-public.ma/fr/concoursListe.asp"
+URL_DESKTOP_LISTE = "https://www.emploi-public.ma/fr/concours-liste"
+URL_ACCUEIL = "https://www.emploi-public.ma/fr/"
 
 DATA_DIR = "data"
 SEEN_FILE = os.path.join(DATA_DIR, "seen_concours.json")
 QUEUE_FILE = os.path.join(DATA_DIR, "a_valider.json")
 
-# Colonnes attendues sur la page (dans cet ordre approximatif)
 EXPECTED_COLUMNS = [
     "Administration organisatrice",
     "Grade",
@@ -42,6 +46,21 @@ EXPECTED_COLUMNS = [
     "Résultats",
     "Désistements",
 ]
+
+HEADERS_NAVIGATEUR = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "fr-FR,fr;q=0.9,ar;q=0.8",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Sec-Fetch-Dest": "document",
+    "Sec-Fetch-Mode": "navigate",
+    "Sec-Fetch-Site": "same-origin",
+}
 
 
 def charger_json(chemin, defaut):
@@ -57,38 +76,103 @@ def sauvegarder_json(chemin, contenu):
         json.dump(contenu, f, ensure_ascii=False, indent=2)
 
 
-def recuperer_tableau():
-    """Télécharge la page et retourne le tableau des concours sous forme de liste de dictionnaires."""
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-        ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "fr-FR,fr;q=0.9",
-        "Referer": "https://www.emploi-public.ma/fr/",
-    }
-    reponse = requests.get(URL, headers=headers, timeout=30, verify=False)
+def nouvelle_session():
+    """Crée une session qui visite d'abord la page d'accueil (comme un vrai
+    visiteur), avant de demander la page cible — certains sites bloquent les
+    requêtes qui arrivent directement sans ce passage."""
+    session = requests.Session()
+    session.headers.update(HEADERS_NAVIGATEUR)
+    try:
+        session.get(URL_ACCUEIL, timeout=30, verify=False)
+        time.sleep(1)
+    except requests.RequestException:
+        pass  # si l'accueil échoue, on tente quand même la page cible
+    return session
+
+
+def essayer_avec_reprises(fonction, tentatives=3, attente=5):
+    derniere_erreur = None
+    for essai in range(1, tentatives + 1):
+        try:
+            return fonction()
+        except Exception as erreur:
+            derniere_erreur = erreur
+            print(f"  Tentative {essai}/{tentatives} échouée : {erreur}")
+            if essai < tentatives:
+                time.sleep(attente)
+    raise derniere_erreur
+
+
+def recuperer_via_tableau_mobile(session):
+    """Méthode 1 : version tableau (mobile), la plus simple à lire."""
+    reponse = session.get(URL_MOBILE_TABLEAU, timeout=30, verify=False)
     reponse.raise_for_status()
 
     tableaux = pd.read_html(reponse.text)
     if not tableaux:
-        raise RuntimeError("Aucun tableau trouvé sur la page — la structure du site a peut-être changé.")
+        raise RuntimeError("Aucun tableau trouvé sur la page mobile.")
 
-    # On prend le tableau qui a le plus de colonnes en commun avec ce qu'on attend
     meilleur = max(tableaux, key=lambda df: len(set(df.columns) & set(EXPECTED_COLUMNS)))
-
     if len(set(meilleur.columns) & set(EXPECTED_COLUMNS)) < 3:
-        raise RuntimeError(
-            "Le tableau trouvé ne correspond pas à ce qu'on attend — vérification manuelle nécessaire."
-        )
+        raise RuntimeError("Le tableau mobile ne correspond pas à la structure attendue.")
 
     return meilleur.fillna("").to_dict(orient="records")
 
 
+def recuperer_via_liste_desktop(session):
+    """Méthode 2 (repli) : version desktop, en cas de blocage de la version mobile."""
+    reponse = session.get(URL_DESKTOP_LISTE, timeout=30, verify=False)
+    reponse.raise_for_status()
+
+    soup = BeautifulSoup(reponse.text, "html.parser")
+    liens = soup.find_all("a", href=re.compile(r"/concours/details/"))
+    if not liens:
+        raise RuntimeError("Aucun lien de concours trouvé sur la page desktop.")
+
+    resultats = []
+    for lien in liens:
+        bloc_texte = lien.get_text(separator=" | ", strip=True)
+        if not bloc_texte:
+            continue
+
+        limite = re.search(r"Limite de dépôt\s*:\s*([^|]+)", bloc_texte)
+        date_concours = re.search(r"Date du concours\s*:\s*([^|]+)", bloc_texte)
+        postes = re.search(r"Annonce\s*(\d+)\s*poste", bloc_texte)
+
+        resultats.append({
+            "Administration organisatrice": bloc_texte.split(" | ")[0][:200],
+            "Grade": bloc_texte.split(" | ")[0][:200],
+            "Nombre postes": postes.group(1) if postes else "",
+            "Délai dépôt": limite.group(1).strip() if limite else "",
+            "Date concours": date_concours.group(1).strip() if date_concours else "",
+            "Date publication": "",
+            "lien": "https://www.emploi-public.ma" + lien["href"] if lien["href"].startswith("/") else lien["href"],
+        })
+
+    if not resultats:
+        raise RuntimeError("Impossible d'extraire des données exploitables des liens trouvés.")
+
+    return resultats
+
+
+def recuperer_concours():
+    session = nouvelle_session()
+
+    print("Tentative via la version tableau (mobile)...")
+    try:
+        return essayer_avec_reprises(lambda: recuperer_via_tableau_mobile(session))
+    except Exception as erreur_mobile:
+        print(f"Méthode mobile indisponible : {erreur_mobile}")
+        print("Tentative via la version liste (desktop)...")
+        return essayer_avec_reprises(lambda: recuperer_via_liste_desktop(session))
+
+
 def identifiant_unique(ligne):
-    """Construit un identifiant stable pour repérer si un concours a déjà été vu."""
-    base = f"{ligne.get('Administration organisatrice', '')}|{ligne.get('Grade', '')}|{ligne.get('Date publication', '')}"
+    base = (
+        f"{ligne.get('Administration organisatrice', '')}|"
+        f"{ligne.get('Grade', '')}|"
+        f"{ligne.get('Date publication', '') or ligne.get('lien', '')}"
+    )
     return base.strip().lower()
 
 
@@ -96,12 +180,12 @@ def main():
     print(f"[{datetime.now().isoformat()}] Démarrage du scraper concours...")
 
     try:
-        lignes = recuperer_tableau()
+        lignes = recuperer_concours()
     except Exception as erreur:
-        print(f"ERREUR pendant la récupération : {erreur}")
+        print(f"ERREUR pendant la récupération (les deux méthodes ont échoué) : {erreur}")
         sys.exit(1)
 
-    print(f"{len(lignes)} concours trouvés sur la page.")
+    print(f"{len(lignes)} concours trouvés.")
 
     deja_vus = set(charger_json(SEEN_FILE, []))
     file_attente = charger_json(QUEUE_FILE, [])
