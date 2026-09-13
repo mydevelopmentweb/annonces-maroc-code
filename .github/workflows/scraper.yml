@@ -6,6 +6,9 @@ on:
     - cron: "0 * * * *"
   workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis GitHub
 
+permissions:
+  contents: write  # autorise le workflow à sauvegarder les résultats dans le dépôt
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
