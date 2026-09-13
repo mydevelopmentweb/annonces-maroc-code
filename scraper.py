@@ -147,9 +147,12 @@ def recuperer_via_liste_desktop(session):
         # et la deuxième (si elle ne contient pas "Limite"/"Date"/"Annonce") est l'organisme.
         titre = parties[0] if parties else ""
         organisme = ""
+        motif_badge = re.compile(r"^\d+\s*jours?\s*restants?$", re.IGNORECASE)
         for partie in parties[1:]:
             if any(mot in partie for mot in ["Limite de dépôt", "Date du concours", "Annonce"]):
                 break
+            if motif_badge.match(partie.strip()):
+                continue  # ignore les badges type "2 jours restants"
             if partie.strip().lower() != titre.strip().lower():
                 organisme = partie
                 break
