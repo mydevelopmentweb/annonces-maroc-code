@@ -268,5 +268,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/00f884fc-0126-4463-88bf-ed56511d187f"
     },
     "numero_issue": 18
+  },
+  {
+    "id": "agence de logements et d'equipements militaires|agent de haute maitrise en genie civil ou gros oeuvres|https://www.emploi-public.ma/fr/concours/details/30fe3217-0cd9-4044-a4fb-86fc86f324ca",
+    "date_detection": "2026-09-14T23:03:42.079041",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence de Logements et d'Equipements Militaires",
+      "Grade": "AGENT DE HAUTE MAITRISE EN GENIE CIVIL OU GROS OEUVRES",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/30fe3217-0cd9-4044-a4fb-86fc86f324ca"
+    },
+    "numero_issue": 19
+  },
+  {
+    "id": "agence de logements et d'equipements militaires|agent de haute maitrise en secretariat de direction|https://www.emploi-public.ma/fr/concours/details/a475ad0f-9250-46fe-92d1-509c3c85fc0d",
+    "date_detection": "2026-09-14T23:03:42.079054",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence de Logements et d'Equipements Militaires",
+      "Grade": "AGENT DE HAUTE MAITRISE EN SECRETARIAT DE DIRECTION",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a475ad0f-9250-46fe-92d1-509c3c85fc0d"
+    },
+    "numero_issue": 20
+  },
+  {
+    "id": "société régionale multiservices drâa-tafilalet|recrutement de 140 collaboratrices et collaborateurs à la srm-dt|https://www.emploi-public.ma/fr/concours/details/fee525a8-27ef-4f45-b062-59e7d34cb4cf",
+    "date_detection": "2026-09-14T23:03:42.079058",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Régionale Multiservices Drâa-Tafilalet",
+      "Grade": "Recrutement de 140 Collaboratrices et Collaborateurs à la SRM-DT",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Septembre 2026 - 23:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/fee525a8-27ef-4f45-b062-59e7d34cb4cf"
+    },
+    "numero_issue": 21
+  },
+  {
+    "id": "holding d'aménagement al omrane|avis de recrutement (01) cadre financier (h/f) -societe al omrane fes meknes-|https://www.emploi-public.ma/fr/concours/details/3a3aac04-ac4b-4ce2-965e-c94fa206d934",
+    "date_detection": "2026-09-14T23:03:42.079061",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Holding d'Aménagement Al Omrane",
+      "Grade": "AVIS DE RECRUTEMENT (01) CADRE FINANCIER (H/F) -SOCIETE AL OMRANE FES MEKNES-",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3a3aac04-ac4b-4ce2-965e-c94fa206d934"
+    },
+    "numero_issue": 22
   }
 ]
