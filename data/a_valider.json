@@ -253,5 +253,20 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/51ad3b7e-5737-4c0a-a4c3-c08d982ddf52"
     },
     "numero_issue": 17
+  },
+  {
+    "id": "agence de logements et d'equipements militaires|cadre supérieur ingénieur d'état|https://www.emploi-public.ma/fr/concours/details/00f884fc-0126-4463-88bf-ed56511d187f",
+    "date_detection": "2026-09-14T09:05:03.561395",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence de Logements et d'Equipements Militaires",
+      "Grade": "Cadre supérieur Ingénieur d'état",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/00f884fc-0126-4463-88bf-ed56511d187f"
+    },
+    "numero_issue": 18
   }
 ]
