@@ -328,5 +328,20 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/3a3aac04-ac4b-4ce2-965e-c94fa206d934"
     },
     "numero_issue": 22
+  },
+  {
+    "id": "haut commissariat au plan|avis de concours de recrutement de ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/0bcfe0ed-c273-4358-947a-76594b2f2dde",
+    "date_detection": "2026-09-15T15:04:17.551977",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Haut commissariat au plan",
+      "Grade": "Avis de concours de recrutement de Ingénieur d'Etat 1er grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Octobre 2026 - 16:30",
+      "Date concours": "25 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0bcfe0ed-c273-4358-947a-76594b2f2dde"
+    },
+    "numero_issue": 23
   }
 ]
