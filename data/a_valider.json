@@ -343,5 +343,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/0bcfe0ed-c273-4358-947a-76594b2f2dde"
     },
     "numero_issue": 23
+  },
+  {
+    "id": "province de chichaoua|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/5d458ac0-79d2-4fa6-bcc2-e95e8d29bd6d",
+    "date_detection": "2026-09-15T23:03:55.733618",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Chichaoua",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Septembre 2026 - 16:30",
+      "Date concours": "27 Septembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5d458ac0-79d2-4fa6-bcc2-e95e8d29bd6d"
+    },
+    "numero_issue": 24
+  },
+  {
+    "id": "maghreb arabe presse|technicien d’exploitation audiovisuelle|https://www.emploi-public.ma/fr/concours/details/dd81c6f2-567c-46a6-987e-eb0e069ae54f",
+    "date_detection": "2026-09-15T23:03:55.733632",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Maghreb Arabe Presse",
+      "Grade": "Technicien d’Exploitation Audiovisuelle",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/dd81c6f2-567c-46a6-987e-eb0e069ae54f"
+    },
+    "numero_issue": 25
+  },
+  {
+    "id": "maghreb arabe presse|technicien en génie climatique|https://www.emploi-public.ma/fr/concours/details/a10b83ac-7ad4-47b2-9ae0-42f9f9441890",
+    "date_detection": "2026-09-15T23:03:55.733637",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Maghreb Arabe Presse",
+      "Grade": "Technicien en génie climatique",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a10b83ac-7ad4-47b2-9ae0-42f9f9441890"
+    },
+    "numero_issue": 26
+  },
+  {
+    "id": "maghreb arabe presse|ingénieurs administration des systèmes d’information|https://www.emploi-public.ma/fr/concours/details/18b25a9b-2c50-4882-b13b-6acb4bbe2746",
+    "date_detection": "2026-09-15T23:03:55.733639",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Maghreb Arabe Presse",
+      "Grade": "Ingénieurs Administration des Systèmes d’Information",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/18b25a9b-2c50-4882-b13b-6acb4bbe2746"
+    },
+    "numero_issue": 27
   }
 ]
