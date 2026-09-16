@@ -418,5 +418,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/1ca7c692-2941-4aed-8903-a6d7758252d0"
     },
     "numero_issue": 28
+  },
+  {
+    "id": "province d'al haouz|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/9edf419b-a29d-4a96-bd0f-4d2643bfae05",
+    "date_detection": "2026-09-16T23:03:31.870160",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province d'Al Haouz",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Septembre 2026 - 15:00",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9edf419b-a29d-4a96-bd0f-4d2643bfae05"
+    },
+    "numero_issue": 29
+  },
+  {
+    "id": "province de settat|médecins premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/123fa254-1e7c-4a5b-bcd3-037b6ded1185",
+    "date_detection": "2026-09-16T23:03:31.870170",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Settat",
+      "Grade": "Médecins premier grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/123fa254-1e7c-4a5b-bcd3-037b6ded1185"
+    },
+    "numero_issue": 30
+  },
+  {
+    "id": "province de settat|médecins veterinaires premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/d0eece65-df87-4610-8926-12a01b78252b",
+    "date_detection": "2026-09-16T23:03:31.870174",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Settat",
+      "Grade": "Médecins veterinaires premier grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d0eece65-df87-4610-8926-12a01b78252b"
+    },
+    "numero_issue": 31
+  },
+  {
+    "id": "province de settat|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/5f2951a6-1fcc-429b-9753-0e2e619dd8f0",
+    "date_detection": "2026-09-16T23:03:31.870177",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Settat",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5f2951a6-1fcc-429b-9753-0e2e619dd8f0"
+    },
+    "numero_issue": 32
   }
 ]
