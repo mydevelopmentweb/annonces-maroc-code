@@ -478,5 +478,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5f2951a6-1fcc-429b-9753-0e2e619dd8f0"
     },
     "numero_issue": 32
+  },
+  {
+    "id": "bank al-maghrib|specialiste supervision bancaire|https://www.emploi-public.ma/fr/concours/details/a8a2d821-e427-473a-beab-a66106ac4bb8",
+    "date_detection": "2026-09-17T23:03:03.282692",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "SPECIALISTE SUPERVISION BANCAIRE",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a8a2d821-e427-473a-beab-a66106ac4bb8"
+    },
+    "numero_issue": 33
+  },
+  {
+    "id": "bank al-maghrib|economiste chercheur|https://www.emploi-public.ma/fr/concours/details/60e06794-d629-414d-8b69-4c52a9377233",
+    "date_detection": "2026-09-17T23:03:03.282705",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "Economiste chercheur",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/60e06794-d629-414d-8b69-4c52a9377233"
+    },
+    "numero_issue": 34
+  },
+  {
+    "id": "bank al-maghrib|analyste sécurité des systèmes et moyens de paiement|https://www.emploi-public.ma/fr/concours/details/85f38bc9-d35a-4347-b782-d3e33bc7f9f2",
+    "date_detection": "2026-09-17T23:03:03.282711",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "Analyste sécurité des systèmes et moyens de paiement",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/85f38bc9-d35a-4347-b782-d3e33bc7f9f2"
+    },
+    "numero_issue": 35
+  },
+  {
+    "id": "maghreb arabe presse|infographiste|https://www.emploi-public.ma/fr/concours/details/45868745-09e0-4817-9e0e-7a12174e3397",
+    "date_detection": "2026-09-17T23:03:03.282714",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Maghreb Arabe Presse",
+      "Grade": "Infographiste",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/45868745-09e0-4817-9e0e-7a12174e3397"
+    },
+    "numero_issue": 36
   }
 ]
