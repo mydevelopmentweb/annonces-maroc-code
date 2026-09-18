@@ -538,5 +538,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/45868745-09e0-4817-9e0e-7a12174e3397"
     },
     "numero_issue": 36
+  },
+  {
+    "id": "agence marocaine des médicaments et des produits de santé|responsable hse|https://www.emploi-public.ma/fr/concours/details/33af9b04-5ff2-4262-a544-5ef6bcff3cbe",
+    "date_detection": "2026-09-18T23:03:31.975684",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine des Médicaments et des Produits de Santé",
+      "Grade": "Responsable HSE",
+      "Nombre postes": "",
+      "Délai dépôt": "20 Septembre 2026 - 18:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/33af9b04-5ff2-4262-a544-5ef6bcff3cbe"
+    },
+    "numero_issue": 37
+  },
+  {
+    "id": "province de chichaoua|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/467d114e-6936-4e22-b519-10877a5182ae",
+    "date_detection": "2026-09-18T23:03:31.975696",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Chichaoua",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Septembre 2026 - 16:30",
+      "Date concours": "18 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/467d114e-6936-4e22-b519-10877a5182ae"
+    },
+    "numero_issue": 38
+  },
+  {
+    "id": "bank al-maghrib|data lead|https://www.emploi-public.ma/fr/concours/details/37411589-6d88-4e11-83e1-23fdc007d299",
+    "date_detection": "2026-09-18T23:03:31.975699",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "Data Lead",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/37411589-6d88-4e11-83e1-23fdc007d299"
+    },
+    "numero_issue": 39
+  },
+  {
+    "id": "atlas on line /groupe ram|agent ressources humaines|https://www.emploi-public.ma/fr/concours/details/eac880a9-4c4a-4256-b293-00201fa414a6",
+    "date_detection": "2026-09-18T23:03:31.975701",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Atlas On Line /groupe RAM",
+      "Grade": "AGENT RESSOURCES HUMAINES",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/eac880a9-4c4a-4256-b293-00201fa414a6"
+    },
+    "numero_issue": 40
   }
 ]
