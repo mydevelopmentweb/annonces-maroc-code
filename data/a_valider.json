@@ -643,5 +643,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/60ded825-8aa0-4814-9dcb-9a5ca9ccf146"
     },
     "numero_issue": 43
+  },
+  {
+    "id": "atlas on line /groupe ram|agent ressources humaines|https://www.emploi-public.ma/fr/concours/details/dd994058-806e-4f6c-a60c-5174ad8b98d4",
+    "date_detection": "2026-09-20T23:03:27.906568",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Atlas On Line /groupe RAM",
+      "Grade": "AGENT RESSOURCES HUMAINES",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/dd994058-806e-4f6c-a60c-5174ad8b98d4"
+    },
+    "numero_issue": 44
+  },
+  {
+    "id": "atlas on line /groupe ram|teleconseiller|https://www.emploi-public.ma/fr/concours/details/f470cb2f-b5f8-4f19-b3f9-cefc30d9f2cd",
+    "date_detection": "2026-09-20T23:03:27.906578",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Atlas On Line /groupe RAM",
+      "Grade": "TELECONSEILLER",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f470cb2f-b5f8-4f19-b3f9-cefc30d9f2cd"
+    },
+    "numero_issue": 45
+  },
+  {
+    "id": "théâtre national mohammed v|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/05f6bf8f-10a6-4287-9216-a44dc9454a2d",
+    "date_detection": "2026-09-20T23:03:27.906582",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Théâtre National Mohammed V",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Septembre 2026 - 16:30",
+      "Date concours": "27 Septembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/05f6bf8f-10a6-4287-9216-a44dc9454a2d"
+    },
+    "numero_issue": 46
+  },
+  {
+    "id": "théâtre national mohammed v|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/5a52a335-ae6a-4519-8d03-b6fb2ad1a336",
+    "date_detection": "2026-09-20T23:03:27.906585",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Théâtre National Mohammed V",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Septembre 2026 - 16:30",
+      "Date concours": "27 Septembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5a52a335-ae6a-4519-8d03-b6fb2ad1a336"
+    },
+    "numero_issue": 47
   }
 ]
