@@ -703,5 +703,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5a52a335-ae6a-4519-8d03-b6fb2ad1a336"
     },
     "numero_issue": 47
+  },
+  {
+    "id": "fondation pour la promotion des œuvres sociales du personnel des eaux et forêts|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/3ce7ef98-a975-4037-b990-2a89a885089b",
+    "date_detection": "2026-09-21T23:03:48.525696",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Fondation pour la Promotion des Œuvres Sociales du Personnel des Eaux et Forêts",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3ce7ef98-a975-4037-b990-2a89a885089b"
+    },
+    "numero_issue": 48
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade à l’enta de laayoune spécialité finance|https://www.emploi-public.ma/fr/concours/details/b12ff66d-1533-4fc1-a9a8-9bd0eae9c0b0",
+    "date_detection": "2026-09-21T23:03:48.525714",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade à l’ENTA de Laayoune spécialité Finance",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b12ff66d-1533-4fc1-a9a8-9bd0eae9c0b0"
+    },
+    "numero_issue": 49
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade à l’enta de laayoune spécialité gestion des ressources humaines|https://www.emploi-public.ma/fr/concours/details/079dca8a-9c35-4954-a656-4c0cef638099",
+    "date_detection": "2026-09-21T23:03:48.525719",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade à l’ENTA de Laayoune spécialité Gestion des ressources humaines",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/079dca8a-9c35-4954-a656-4c0cef638099"
+    },
+    "numero_issue": 50
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à l’enta de laayoune spécialité secrétariat de direction|https://www.emploi-public.ma/fr/concours/details/a85dbf64-976e-458c-ad26-ebdd68f7a654",
+    "date_detection": "2026-09-21T23:03:48.525722",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à l’ENTA de Laayoune spécialité Secrétariat de direction",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a85dbf64-976e-458c-ad26-ebdd68f7a654"
+    },
+    "numero_issue": 51
   }
 ]
