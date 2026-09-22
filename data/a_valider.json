@@ -763,5 +763,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/a85dbf64-976e-458c-ad26-ebdd68f7a654"
     },
     "numero_issue": 51
+  },
+  {
+    "id": "marrakech région sport|responsable administratif et financier|https://www.emploi-public.ma/fr/concours/details/9bb0138d-cde8-4dbe-b466-294e05c4a10d",
+    "date_detection": "2026-09-22T23:03:22.580550",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Marrakech Région Sport",
+      "Grade": "Responsable Administratif et Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9bb0138d-cde8-4dbe-b466-294e05c4a10d"
+    },
+    "numero_issue": 52
+  },
+  {
+    "id": "marrakech région sport|responsable technique des équipements sportifs|https://www.emploi-public.ma/fr/concours/details/d43d1883-9954-4a2e-a086-c3b635621ef4",
+    "date_detection": "2026-09-22T23:03:22.580563",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Marrakech Région Sport",
+      "Grade": "Responsable Technique des Équipements Sportifs",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d43d1883-9954-4a2e-a086-c3b635621ef4"
+    },
+    "numero_issue": 53
+  },
+  {
+    "id": "société de développement local rabat voyageur|guichetier|https://www.emploi-public.ma/fr/concours/details/f21ff0c3-9bfb-4688-9215-118f158c1546",
+    "date_detection": "2026-09-22T23:03:22.580567",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société de développement local Rabat Voyageur",
+      "Grade": "GUICHETIER",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f21ff0c3-9bfb-4688-9215-118f158c1546"
+    },
+    "numero_issue": 54
+  },
+  {
+    "id": "société de développement local rabat voyageur|contrôleur terrain|https://www.emploi-public.ma/fr/concours/details/dadc7997-6598-404f-b64f-e7c0c3686cc8",
+    "date_detection": "2026-09-22T23:03:22.580572",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société de développement local Rabat Voyageur",
+      "Grade": "Contrôleur Terrain",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/dadc7997-6598-404f-b64f-e7c0c3686cc8"
+    },
+    "numero_issue": 55
   }
 ]
