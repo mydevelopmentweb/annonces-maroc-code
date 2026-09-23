@@ -868,5 +868,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/8cad4f28-8207-43e7-b653-29498a7ed5e0"
     },
     "numero_issue": 58
+  },
+  {
+    "id": "société rabat région emergence|cadre au sein du service after care|https://www.emploi-public.ma/fr/concours/details/5762c211-65cc-42e1-95c0-29092dc9d2ce",
+    "date_detection": "2026-09-23T23:03:05.173264",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Rabat Région Emergence",
+      "Grade": "Cadre au sein du Service After care",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5762c211-65cc-42e1-95c0-29092dc9d2ce"
+    },
+    "numero_issue": 59
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à l’est dakhla spécialité informatique|https://www.emploi-public.ma/fr/concours/details/a74f495b-d212-433a-ac3a-6153ed087cfd",
+    "date_detection": "2026-09-23T23:03:05.173281",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à l’EST Dakhla spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Septembre 2026",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a74f495b-d212-433a-ac3a-6153ed087cfd"
+    },
+    "numero_issue": 60
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade à l’est dakhla spécialité informatique|https://www.emploi-public.ma/fr/concours/details/f9364095-99cc-487e-b12b-b1e9ceeb493f",
+    "date_detection": "2026-09-23T23:03:05.173284",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade à l’EST Dakhla spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Septembre 2026",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f9364095-99cc-487e-b12b-b1e9ceeb493f"
+    },
+    "numero_issue": 61
+  },
+  {
+    "id": "ministère de l’inclusion économique, de la petite entreprise, de l’emploi et des compétences|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/57d80740-6401-4401-88e8-1545790f97b6",
+    "date_detection": "2026-09-23T23:03:05.173288",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Inclusion économique, de la Petite entreprise, de l’Emploi et des Compétences",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Septembre 2026 - 16:29",
+      "Date concours": "18 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/57d80740-6401-4401-88e8-1545790f97b6"
+    },
+    "numero_issue": 62
   }
 ]
