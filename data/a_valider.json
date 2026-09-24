@@ -928,5 +928,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/57d80740-6401-4401-88e8-1545790f97b6"
     },
     "numero_issue": 62
+  },
+  {
+    "id": "ministère de l’intérieur -province guercif-|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/b58830b0-ce02-419e-8e0f-9c0a4e6c9483",
+    "date_detection": "2026-09-24T23:03:37.068373",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Province Guercif-",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Septembre 2026",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b58830b0-ce02-419e-8e0f-9c0a4e6c9483"
+    },
+    "numero_issue": 63
+  },
+  {
+    "id": "centre régional d''investissement rabat salé kénitra|assistante|https://www.emploi-public.ma/fr/concours/details/83e802a6-6386-4a4b-8b1f-a04a3c88254e",
+    "date_detection": "2026-09-24T23:03:37.068388",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre Régional d''Investissement Rabat Salé Kénitra",
+      "Grade": "Assistante",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Septembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/83e802a6-6386-4a4b-8b1f-a04a3c88254e"
+    },
+    "numero_issue": 64
+  },
+  {
+    "id": "université sidi mohamed ben abdellah -fès-|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/ec655e53-ac79-48b5-b7b8-0cc20b15b6e4",
+    "date_detection": "2026-09-24T23:03:37.068390",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Sidi Mohamed Ben Abdellah -Fès-",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ec655e53-ac79-48b5-b7b8-0cc20b15b6e4"
+    },
+    "numero_issue": 65
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f",
+    "date_detection": "2026-09-24T23:03:37.068392",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Administrateur 3ème grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f"
+    },
+    "numero_issue": 66
   }
 ]
