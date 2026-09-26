@@ -1033,5 +1033,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/ca608770-fa1e-488b-b1ea-e05d8c23fea5"
     },
     "numero_issue": 69
+  },
+  {
+    "id": "province de ouezzane|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/180e1e5d-472d-4cea-a00e-a623beecf83c",
+    "date_detection": "2026-09-26T23:03:41.443097",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Ouezzane",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Septembre 2026 - 16:30",
+      "Date concours": "17 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/180e1e5d-472d-4cea-a00e-a623beecf83c"
+    },
+    "numero_issue": 70
+  },
+  {
+    "id": "province de ouezzane|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/0c80e502-f212-45fa-8323-950626f1533c",
+    "date_detection": "2026-09-26T23:03:41.443110",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Ouezzane",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Septembre 2026 - 16:30",
+      "Date concours": "17 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0c80e502-f212-45fa-8323-950626f1533c"
+    },
+    "numero_issue": 71
   }
 ]
