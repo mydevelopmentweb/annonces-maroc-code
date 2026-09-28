@@ -1063,5 +1063,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/0c80e502-f212-45fa-8323-950626f1533c"
     },
     "numero_issue": 71
+  },
+  {
+    "id": "marrakech région sport|responsable d’exploitation|https://www.emploi-public.ma/fr/concours/details/b1362832-d6dd-42b4-b630-d53e5d4bcbb7",
+    "date_detection": "2026-09-28T00:04:57.275324",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Marrakech Région Sport",
+      "Grade": "Responsable d’Exploitation",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b1362832-d6dd-42b4-b630-d53e5d4bcbb7"
+    },
+    "numero_issue": 72
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|technicien de 3ème grade|https://www.emploi-public.ma/fr/concours/details/f547a6c3-eb88-468f-8903-e78b47cdf0a5",
+    "date_detection": "2026-09-28T00:04:57.275338",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "Technicien de 3ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Septembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f547a6c3-eb88-468f-8903-e78b47cdf0a5"
+    },
+    "numero_issue": 73
+  },
+  {
+    "id": "université mohammed v|maitre de conférences en médecine dentaire|https://www.emploi-public.ma/fr/concours/details/379ce8bb-4e44-471f-ab7e-a37246900d64",
+    "date_detection": "2026-09-28T00:04:57.275341",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed V",
+      "Grade": "Maitre de conférences en médecine dentaire",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Septembre 2026 - 16:30",
+      "Date concours": "15 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/379ce8bb-4e44-471f-ab7e-a37246900d64"
+    },
+    "numero_issue": 74
+  },
+  {
+    "id": "agence marocaine des médicaments et des produits de santé|technicien 3ᵉ grade - assistant(e) de direction|https://www.emploi-public.ma/fr/concours/details/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c",
+    "date_detection": "2026-09-28T00:04:57.275344",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine des Médicaments et des Produits de Santé",
+      "Grade": "Technicien 3ᵉ Grade - Assistant(e) de Direction",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Septembre 2026 - 18:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c"
+    },
+    "numero_issue": 75
   }
 ]
