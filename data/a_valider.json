@@ -1123,5 +1123,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/ed630ef0-6659-4ad0-a7a4-2a649cba9e8c"
     },
     "numero_issue": 75
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à l’enta lâayoune spécialité mathématiques appliquées|https://www.emploi-public.ma/fr/concours/details/6211f661-ec45-49cd-909b-a3caea180325",
+    "date_detection": "2026-09-29T00:05:20.722576",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à l’ENTA Lâayoune spécialité Mathématiques Appliquées",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Septembre 2026",
+      "Date concours": "6 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6211f661-ec45-49cd-909b-a3caea180325"
+    },
+    "numero_issue": 76
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à l’enta lâayoune spécialité informatique - cybersécurité|https://www.emploi-public.ma/fr/concours/details/49a54ce9-fdbd-4f83-9220-ff560a7d44ec",
+    "date_detection": "2026-09-29T00:05:20.722590",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à l’ENTA Lâayoune spécialité Informatique - Cybersécurité",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Septembre 2026",
+      "Date concours": "6 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/49a54ce9-fdbd-4f83-9220-ff560a7d44ec"
+    },
+    "numero_issue": 77
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à l’enta lâayoune spécialité génie électrique - systèmes embarqués|https://www.emploi-public.ma/fr/concours/details/36f78ee7-23b8-48d1-8ab3-e9e5bb23cf6a",
+    "date_detection": "2026-09-29T00:05:20.722596",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à l’ENTA Lâayoune spécialité Génie Électrique - Systèmes Embarqués",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Septembre 2026",
+      "Date concours": "6 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/36f78ee7-23b8-48d1-8ab3-e9e5bb23cf6a"
+    },
+    "numero_issue": 78
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à l’enta lâayoune spécialité mécanique – énergétique|https://www.emploi-public.ma/fr/concours/details/c47e59c6-9d3b-48df-9775-85c64c28bf7d",
+    "date_detection": "2026-09-29T00:05:20.722600",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à l’ENTA Lâayoune spécialité Mécanique – Énergétique",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Septembre 2026",
+      "Date concours": "6 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c47e59c6-9d3b-48df-9775-85c64c28bf7d"
+    },
+    "numero_issue": 79
   }
 ]
