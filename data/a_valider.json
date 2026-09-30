@@ -1213,5 +1213,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f"
     },
     "numero_issue": 81
+  },
+  {
+    "id": "office national des aéroports|architecte|https://www.emploi-public.ma/fr/concours/details/840e75ba-f4e0-4c70-9d48-19d6fef8b5a8",
+    "date_detection": "2026-09-30T00:05:08.229828",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National Des Aéroports",
+      "Grade": "Architecte",
+      "Nombre postes": "",
+      "Délai dépôt": "1 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/840e75ba-f4e0-4c70-9d48-19d6fef8b5a8"
+    },
+    "numero_issue": 82
+  },
+  {
+    "id": "atlas on line /groupe ram|teleconseiller|https://www.emploi-public.ma/fr/concours/details/f6060958-edb1-49cf-aa70-254b7aa45c82",
+    "date_detection": "2026-09-30T00:05:08.229840",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Atlas On Line /groupe RAM",
+      "Grade": "TELECONSEILLER",
+      "Nombre postes": "",
+      "Délai dépôt": "1 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f6060958-edb1-49cf-aa70-254b7aa45c82"
+    },
+    "numero_issue": 83
+  },
+  {
+    "id": "bank al-maghrib|analyste risques du système financier|https://www.emploi-public.ma/fr/concours/details/1483679d-abb8-416b-81a5-b94139683a3a",
+    "date_detection": "2026-09-30T00:05:08.229844",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "Analyste Risques du Système Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "1 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1483679d-abb8-416b-81a5-b94139683a3a"
+    },
+    "numero_issue": 84
+  },
+  {
+    "id": "holding d'aménagement al omrane|avis de recrutement (01) architecte junior (h/f) à la societe al omrane souss massa|https://www.emploi-public.ma/fr/concours/details/5bb69b85-01d5-4d8b-aaa2-26c727ff9eb5",
+    "date_detection": "2026-09-30T00:05:08.229847",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Holding d'Aménagement Al Omrane",
+      "Grade": "AVIS DE RECRUTEMENT (01) ARCHITECTE JUNIOR (H/F) À LA SOCIETE AL OMRANE SOUSS MASSA",
+      "Nombre postes": "",
+      "Délai dépôt": "1 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5bb69b85-01d5-4d8b-aaa2-26c727ff9eb5"
+    },
+    "numero_issue": 85
   }
 ]
