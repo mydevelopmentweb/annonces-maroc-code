@@ -1273,5 +1273,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5bb69b85-01d5-4d8b-aaa2-26c727ff9eb5"
     },
     "numero_issue": 85
+  },
+  {
+    "id": "société oujda développement et aménagement|chargé du pôle technique|https://www.emploi-public.ma/fr/concours/details/5bfda42c-9d06-47b5-b5fc-810c1b31a695",
+    "date_detection": "2026-10-01T00:05:01.396266",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Oujda Développement et Aménagement",
+      "Grade": "Chargé du Pôle Technique",
+      "Nombre postes": "",
+      "Délai dépôt": "1 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5bfda42c-9d06-47b5-b5fc-810c1b31a695"
+    },
+    "numero_issue": 86
+  },
+  {
+    "id": "province de sefrou|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/a9035042-bf6c-471c-a492-a8eb779d93bf",
+    "date_detection": "2026-10-01T00:05:01.396280",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Sefrou",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Octobre 2026 - 16:30",
+      "Date concours": "18 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a9035042-bf6c-471c-a492-a8eb779d93bf"
+    },
+    "numero_issue": 87
+  },
+  {
+    "id": "province de sefrou|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/b8c37fea-f667-4fc0-b23c-8dc6220a3482",
+    "date_detection": "2026-10-01T00:05:01.396283",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Sefrou",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Octobre 2026 - 16:30",
+      "Date concours": "18 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b8c37fea-f667-4fc0-b23c-8dc6220a3482"
+    },
+    "numero_issue": 88
+  },
+  {
+    "id": "province d'essaouira|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/f0f7647c-2ac9-4001-b8b1-d04b9032483d",
+    "date_detection": "2026-10-01T00:05:01.396285",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province d'Essaouira",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Octobre 2026 - 16:30",
+      "Date concours": "1 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f0f7647c-2ac9-4001-b8b1-d04b9032483d"
+    },
+    "numero_issue": 89
   }
 ]
