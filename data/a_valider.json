@@ -1333,5 +1333,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/f0f7647c-2ac9-4001-b8b1-d04b9032483d"
     },
     "numero_issue": 89
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|maitre de conférence|https://www.emploi-public.ma/fr/concours/details/2b502cb0-e9ba-4a4d-8776-f52e42edb7c1",
+    "date_detection": "2026-10-02T00:05:02.231594",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "maitre de conférence",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/2b502cb0-e9ba-4a4d-8776-f52e42edb7c1"
+    },
+    "numero_issue": 90
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|maitre de conférence|https://www.emploi-public.ma/fr/concours/details/6922c85a-2b2a-48b3-b6b0-2168d65f2fe8",
+    "date_detection": "2026-10-02T00:05:02.231608",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "maitre de conférence",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6922c85a-2b2a-48b3-b6b0-2168d65f2fe8"
+    },
+    "numero_issue": 91
+  },
+  {
+    "id": "université cadi ayyad|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/55a68029-909d-4c61-8b94-94976c50be8a",
+    "date_detection": "2026-10-02T00:05:02.231611",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Octobre 2026",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/55a68029-909d-4c61-8b94-94976c50be8a"
+    },
+    "numero_issue": 92
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|maitre de conférence|https://www.emploi-public.ma/fr/concours/details/5345b015-97b2-4732-9fbf-275fabae6f97",
+    "date_detection": "2026-10-02T00:05:02.231614",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "maitre de conférence",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Octobre 2026 - 12:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5345b015-97b2-4732-9fbf-275fabae6f97"
+    },
+    "numero_issue": 93
   }
 ]
