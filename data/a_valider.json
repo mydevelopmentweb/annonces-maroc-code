@@ -1393,5 +1393,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5345b015-97b2-4732-9fbf-275fabae6f97"
     },
     "numero_issue": 93
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à la fsa taroudant spécialité développement informatique|https://www.emploi-public.ma/fr/concours/details/bca396eb-03a2-4648-94e9-2f4bd888ee07",
+    "date_detection": "2026-10-03T00:04:54.075721",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à la FSA TAROUDANT spécialité Développement informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Octobre 2026",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/bca396eb-03a2-4648-94e9-2f4bd888ee07"
+    },
+    "numero_issue": 94
+  },
+  {
+    "id": "université sultan moulay slimane -béni mellal|administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/baa76d68-c2e1-4f61-a5af-07e3e8ce0afb",
+    "date_detection": "2026-10-03T00:04:54.075732",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Sultan Moulay Slimane -Béni Mellal",
+      "Grade": "Administrateur 3ème grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Octobre 2026",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/baa76d68-c2e1-4f61-a5af-07e3e8ce0afb"
+    },
+    "numero_issue": 95
+  },
+  {
+    "id": "université sultan moulay slimane -béni mellal|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/c501a3f6-ccf8-4903-9796-51a2991bc8b1",
+    "date_detection": "2026-10-03T00:04:54.075736",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Sultan Moulay Slimane -Béni Mellal",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Octobre 2026",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c501a3f6-ccf8-4903-9796-51a2991bc8b1"
+    },
+    "numero_issue": 96
+  },
+  {
+    "id": "agence urbaine de khenifra|architecte 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/7e7d69f3-6527-4cd6-b44b-98196371234c",
+    "date_detection": "2026-10-03T00:04:54.075738",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence urbaine de khenifra",
+      "Grade": "Architecte 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Octobre 2026 - 16:30",
+      "Date concours": "28 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7e7d69f3-6527-4cd6-b44b-98196371234c"
+    },
+    "numero_issue": 97
   }
 ]
