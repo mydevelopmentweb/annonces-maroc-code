@@ -1453,5 +1453,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/7e7d69f3-6527-4cd6-b44b-98196371234c"
     },
     "numero_issue": 97
+  },
+  {
+    "id": "société des silos portuaires (sosipo)|assistante pole finances et capital humain ref.06/2026|https://www.emploi-public.ma/fr/concours/details/7f82e828-6baa-4c87-8c3c-59bb35155f2b",
+    "date_detection": "2026-10-04T02:25:09.128117",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société des Silos Portuaires (SOSIPO)",
+      "Grade": "ASSISTANTE POLE FINANCES ET CAPITAL HUMAIN REF.06/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7f82e828-6baa-4c87-8c3c-59bb35155f2b"
+    },
+    "numero_issue": 98
+  },
+  {
+    "id": "société des silos portuaires (sosipo)|مهندس دولة في هندسة البرمجيات والذكاء الاصطناعي وعلوم البيانات pole si sosipo ref.07/2026|https://www.emploi-public.ma/fr/concours/details/1c4103fd-834b-4fd0-bb46-a6d0b02fedc0",
+    "date_detection": "2026-10-04T02:25:09.128130",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société des Silos Portuaires (SOSIPO)",
+      "Grade": "مهندس دولة في هندسة البرمجيات والذكاء الاصطناعي وعلوم البيانات POLE SI SOSIPO REF.07/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1c4103fd-834b-4fd0-bb46-a6d0b02fedc0"
+    },
+    "numero_issue": 99
+  },
+  {
+    "id": "société des silos portuaires (sosipo)|organisateur et qualiticien au sein du parmp de la sosipo ref.08/2026|https://www.emploi-public.ma/fr/concours/details/e8f0f77d-859e-429d-be9d-c7e2f20c3641",
+    "date_detection": "2026-10-04T02:25:09.128134",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société des Silos Portuaires (SOSIPO)",
+      "Grade": "ORGANISATEUR ET QUALITICIEN AU SEIN DU PARMP DE LA SOSIPO REF.08/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e8f0f77d-859e-429d-be9d-c7e2f20c3641"
+    },
+    "numero_issue": 100
   }
 ]
