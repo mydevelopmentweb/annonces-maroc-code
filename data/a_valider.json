@@ -1498,5 +1498,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/e8f0f77d-859e-429d-be9d-c7e2f20c3641"
     },
     "numero_issue": 100
+  },
+  {
+    "id": "société oujda animation développement|chef de projet|https://www.emploi-public.ma/fr/concours/details/63d8913e-9ea3-44ac-9763-fe24c32cc21d",
+    "date_detection": "2026-10-05T00:05:06.957308",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Oujda Animation Développement",
+      "Grade": "CHEF DE PROJET",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/63d8913e-9ea3-44ac-9763-fe24c32cc21d"
+    },
+    "numero_issue": 101
+  },
+  {
+    "id": "université abdelmalek essaâdi - tétouan|administrateur 3éme grade spécialité biologie fmp tanger|https://www.emploi-public.ma/fr/concours/details/f74e48c4-5136-4253-a012-802a2982a7a4",
+    "date_detection": "2026-10-05T00:05:06.957322",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Abdelmalek Essaâdi - Tétouan",
+      "Grade": "Administrateur 3éme grade Spécialité Biologie FMP Tanger",
+      "Nombre postes": "",
+      "Délai dépôt": "6 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f74e48c4-5136-4253-a012-802a2982a7a4"
+    },
+    "numero_issue": 102
+  },
+  {
+    "id": "institut national de recherche halieutique|agents à contrat|https://www.emploi-public.ma/fr/concours/details/d367ebf6-bfec-4bc0-90c5-71e03896eedc",
+    "date_detection": "2026-10-05T00:05:06.957325",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Institut National de Recherche Halieutique",
+      "Grade": "Agents à contrat",
+      "Nombre postes": "",
+      "Délai dépôt": "6 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d367ebf6-bfec-4bc0-90c5-71e03896eedc"
+    },
+    "numero_issue": 103
+  },
+  {
+    "id": "institut national de recherche halieutique|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/fab967b7-4c3e-4bcb-8d1b-fc569931c0b4",
+    "date_detection": "2026-10-05T00:05:06.957329",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Institut National de Recherche Halieutique",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "6 Octobre 2026 - 16:30",
+      "Date concours": "21 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/fab967b7-4c3e-4bcb-8d1b-fc569931c0b4"
+    },
+    "numero_issue": 104
   }
 ]
