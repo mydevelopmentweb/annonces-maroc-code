@@ -1558,5 +1558,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/fab967b7-4c3e-4bcb-8d1b-fc569931c0b4"
     },
     "numero_issue": 104
+  },
+  {
+    "id": "tanja mobilité|cadre chargé des marchés publics (h/f)|https://www.emploi-public.ma/fr/concours/details/5b3a3c7d-22c6-48b1-8734-a5314889e23d",
+    "date_detection": "2026-10-06T00:05:21.700527",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Tanja Mobilité",
+      "Grade": "Cadre Chargé des Marchés Publics (H/F)",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5b3a3c7d-22c6-48b1-8734-a5314889e23d"
+    },
+    "numero_issue": 105
+  },
+  {
+    "id": "tanja mobilité|ingénieur études (h/f)|https://www.emploi-public.ma/fr/concours/details/0e85217f-16d1-4380-9e8e-cd15e59d5326",
+    "date_detection": "2026-10-06T00:05:21.700549",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Tanja Mobilité",
+      "Grade": "Ingénieur Études (H/F)",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0e85217f-16d1-4380-9e8e-cd15e59d5326"
+    },
+    "numero_issue": 106
+  },
+  {
+    "id": "tanja mobilité|cadre trésorerie (h/f)|https://www.emploi-public.ma/fr/concours/details/1e89bc0e-34b3-45dc-b4e8-5189515cdb93",
+    "date_detection": "2026-10-06T00:05:21.700553",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Tanja Mobilité",
+      "Grade": "Cadre Trésorerie (H/F)",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1e89bc0e-34b3-45dc-b4e8-5189515cdb93"
+    },
+    "numero_issue": 107
+  },
+  {
+    "id": "caisse de dépôt et de gestion|gestionnaire alm|https://www.emploi-public.ma/fr/concours/details/b4a98786-21c6-4452-81fe-98be49377f05",
+    "date_detection": "2026-10-06T00:05:21.700555",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse de Dépôt et de Gestion",
+      "Grade": "Gestionnaire ALM",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b4a98786-21c6-4452-81fe-98be49377f05"
+    },
+    "numero_issue": 108
   }
 ]
