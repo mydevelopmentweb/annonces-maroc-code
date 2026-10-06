@@ -1618,5 +1618,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/b4a98786-21c6-4452-81fe-98be49377f05"
     },
     "numero_issue": 108
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366",
+    "date_detection": "2026-10-06T13:06:58.048064",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un Technicien de 3ème grade - Echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366"
+    },
+    "numero_issue": 109
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f",
+    "date_detection": "2026-10-06T13:06:58.048080",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un Administrateur 3ème grade - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f"
+    },
+    "numero_issue": 110
   }
 ]
