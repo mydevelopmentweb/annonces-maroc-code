@@ -1648,5 +1648,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/610a541b-4cfe-4d44-8cac-c963b740652f"
     },
     "numero_issue": 110
+  },
+  {
+    "id": "agence marocaine de sûreté et sécurité nucléaires et radiologiques|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/e8550710-3ecf-47f6-974f-313e8ec70bf4",
+    "date_detection": "2026-10-07T00:05:22.963585",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Sûreté et Sécurité Nucléaires et Radiologiques",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e8550710-3ecf-47f6-974f-313e8ec70bf4"
+    },
+    "numero_issue": 111
+  },
+  {
+    "id": "agence marocaine de sûreté et sécurité nucléaires et radiologiques|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/1c48b740-191d-4bc2-bdfc-7e5895e3bb08",
+    "date_detection": "2026-10-07T00:05:22.963599",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Sûreté et Sécurité Nucléaires et Radiologiques",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1c48b740-191d-4bc2-bdfc-7e5895e3bb08"
+    },
+    "numero_issue": 112
+  },
+  {
+    "id": "agence marocaine de sûreté et sécurité nucléaires et radiologiques|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/4e558e69-ac29-4153-a076-b83e3fa689ff",
+    "date_detection": "2026-10-07T00:05:22.963603",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Sûreté et Sécurité Nucléaires et Radiologiques",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4e558e69-ac29-4153-a076-b83e3fa689ff"
+    },
+    "numero_issue": 113
+  },
+  {
+    "id": "agence marocaine de sûreté et sécurité nucléaires et radiologiques|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/d63baebe-afbb-4ede-9e52-00efec75fbc2",
+    "date_detection": "2026-10-07T00:05:22.963606",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Sûreté et Sécurité Nucléaires et Radiologiques",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d63baebe-afbb-4ede-9e52-00efec75fbc2"
+    },
+    "numero_issue": 114
   }
 ]
