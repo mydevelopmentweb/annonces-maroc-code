@@ -1708,5 +1708,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/d63baebe-afbb-4ede-9e52-00efec75fbc2"
     },
     "numero_issue": 114
+  },
+  {
+    "id": "agence nationale des ports|officier de port|https://www.emploi-public.ma/fr/concours/details/fd65d05e-29c8-4108-8d2b-5efef8e1b4b0",
+    "date_detection": "2026-10-08T03:29:51.949455",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Officier de Port",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/fd65d05e-29c8-4108-8d2b-5efef8e1b4b0"
+    },
+    "numero_issue": 115
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|administrateur 2eme grade|https://www.emploi-public.ma/fr/concours/details/78808ac1-5f15-4baf-aed3-6e2fc710ea24",
+    "date_detection": "2026-10-08T03:29:51.949471",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "administrateur 2eme grade",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/78808ac1-5f15-4baf-aed3-6e2fc710ea24"
+    },
+    "numero_issue": 116
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|administrateur 2eme grade|https://www.emploi-public.ma/fr/concours/details/13ad6289-7cfe-441a-9922-c71f51c040f1",
+    "date_detection": "2026-10-08T03:29:51.949474",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "administrateur 2eme grade",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/13ad6289-7cfe-441a-9922-c71f51c040f1"
+    },
+    "numero_issue": 117
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|administrateur 2eme grade|https://www.emploi-public.ma/fr/concours/details/8c6b2d92-3dde-414b-a877-caa39dadaba6",
+    "date_detection": "2026-10-08T03:29:51.949477",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "administrateur 2eme grade",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8c6b2d92-3dde-414b-a877-caa39dadaba6"
+    },
+    "numero_issue": 118
   }
 ]
