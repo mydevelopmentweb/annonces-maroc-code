@@ -1783,5 +1783,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/1ca7c692-2941-4aed-8903-a6d7758252d0"
     },
     "numero_issue": 119
+  },
+  {
+    "id": "office marocain de la propriété industrielle et commerciale|ingénieur d'etat ou master (bac+5) ou diplôme équivalant en génie industriel|https://www.emploi-public.ma/fr/concours/details/69b9e396-7963-478a-87e8-44a51ddc49b3",
+    "date_detection": "2026-10-09T03:35:20.086953",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office Marocain de la Propriété Industrielle et Commerciale",
+      "Grade": "Ingénieur d'Etat ou Master (Bac+5) ou diplôme équivalant en Génie Industriel",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/69b9e396-7963-478a-87e8-44a51ddc49b3"
+    },
+    "numero_issue": 120
+  },
+  {
+    "id": "office marocain de la propriété industrielle et commerciale|ingénieur d'etat ou master (bac+5) ou diplôme équivalant en chimie|https://www.emploi-public.ma/fr/concours/details/e01721b7-4918-488e-84ab-910118be9848",
+    "date_detection": "2026-10-09T03:35:20.086968",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office Marocain de la Propriété Industrielle et Commerciale",
+      "Grade": "Ingénieur d'Etat ou Master (Bac+5) ou diplôme équivalant en Chimie",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e01721b7-4918-488e-84ab-910118be9848"
+    },
+    "numero_issue": 121
+  },
+  {
+    "id": "office marocain de la propriété industrielle et commerciale|master ou diplôme équivalant : marketing et actions commerciales, commerce international, publicité et communication, mangement de la relation client|https://www.emploi-public.ma/fr/concours/details/8df30e02-f3ac-4e20-ab8f-2d1ed9fd4d84",
+    "date_detection": "2026-10-09T03:35:20.086972",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office Marocain de la Propriété Industrielle et Commerciale",
+      "Grade": "Master ou diplôme équivalant : Marketing et Actions Commerciales, Commerce International, Publicité et Communication, Mangement de la Relation Client",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8df30e02-f3ac-4e20-ab8f-2d1ed9fd4d84"
+    },
+    "numero_issue": 122
+  },
+  {
+    "id": "office marocain de la propriété industrielle et commerciale|diplôme de technicien spécialisé (bac+2) ou diplôme équivalant : gestion des entreprises, finance et comptabilité, commerce|https://www.emploi-public.ma/fr/concours/details/101e83b4-f070-4c7a-bf22-4ee19ab1842b",
+    "date_detection": "2026-10-09T03:35:20.086976",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office Marocain de la Propriété Industrielle et Commerciale",
+      "Grade": "Diplôme de Technicien Spécialisé (Bac+2) ou diplôme équivalant : Gestion des Entreprises, Finance et Comptabilité, Commerce",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/101e83b4-f070-4c7a-bf22-4ee19ab1842b"
+    },
+    "numero_issue": 123
   }
 ]
