@@ -1873,5 +1873,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/52e12b8e-9551-4cd5-913c-a6af6b39db73"
     },
     "numero_issue": 125
+  },
+  {
+    "id": "agence nationale des ports|technicien si - cyber-sécurité|https://www.emploi-public.ma/fr/concours/details/33430ef7-321a-4ce4-acff-30e169845af6",
+    "date_detection": "2026-10-10T01:33:08.699804",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Technicien SI - Cyber-Sécurité",
+      "Nombre postes": "",
+      "Délai dépôt": "10 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/33430ef7-321a-4ce4-acff-30e169845af6"
+    },
+    "numero_issue": 126
+  },
+  {
+    "id": "université hassan 1er - settat|maitres de conferences l’institut national du numérique et de l’intelligence artificielle settat|https://www.emploi-public.ma/fr/concours/details/a732f776-b775-4154-b241-7f41b8e28709",
+    "date_detection": "2026-10-10T01:33:08.699817",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Hassan 1er - Settat",
+      "Grade": "MAITRES DE CONFERENCES l’Institut National du Numérique et de l’Intelligence Artificielle SETTAT",
+      "Nombre postes": "",
+      "Délai dépôt": "11 Octobre 2026 - 23:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a732f776-b775-4154-b241-7f41b8e28709"
+    },
+    "numero_issue": 127
+  },
+  {
+    "id": "théâtre national mohammed v|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/fe5cb31a-aca3-4222-b717-445c8c28cc9a",
+    "date_detection": "2026-10-10T01:33:08.699820",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Théâtre National Mohammed V",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "12 Octobre 2026 - 16:29",
+      "Date concours": "25 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/fe5cb31a-aca3-4222-b717-445c8c28cc9a"
+    },
+    "numero_issue": 128
+  },
+  {
+    "id": "laboratoire officiel d'analyses et de recherches chimiques|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/268395b3-1e23-49ec-9c01-9ae7feb629b5",
+    "date_detection": "2026-10-10T01:33:08.699823",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Laboratoire Officiel d'Analyses et de Recherches Chimiques",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Octobre 2026 - 16:30",
+      "Date concours": "5 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/268395b3-1e23-49ec-9c01-9ae7feb629b5"
+    },
+    "numero_issue": 129
   }
 ]
