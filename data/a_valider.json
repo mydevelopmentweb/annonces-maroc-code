@@ -1963,5 +1963,20 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/1c979a0f-44c5-4394-9b7f-f1091329386a"
     },
     "numero_issue": 131
+  },
+  {
+    "id": "ministère de l’intérieur|publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un pharmacien premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/1ca7c692-2941-4aed-8903-a6d7758252d0",
+    "date_detection": "2026-10-11T20:42:02.586242",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur",
+      "Grade": "Publication de la liste des convoqués pour l'entretien oral du concours de recrutement d'un Pharmacien premier grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Septembre 2026 - 16:30",
+      "Date concours": "11 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1ca7c692-2941-4aed-8903-a6d7758252d0"
+    },
+    "numero_issue": 132
   }
 ]
