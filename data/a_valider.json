@@ -1933,5 +1933,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/268395b3-1e23-49ec-9c01-9ae7feb629b5"
     },
     "numero_issue": 129
+  },
+  {
+    "id": "agence urbaine d'errachidia|cadre financier|https://www.emploi-public.ma/fr/concours/details/a2b75dba-a10b-4353-bc42-c170c70e6151",
+    "date_detection": "2026-10-11T02:48:54.485903",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence urbaine d'Errachidia",
+      "Grade": "Cadre Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a2b75dba-a10b-4353-bc42-c170c70e6151"
+    },
+    "numero_issue": 130
+  },
+  {
+    "id": "office régional de mise en valeur agricole de tadla|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/1c979a0f-44c5-4394-9b7f-f1091329386a",
+    "date_detection": "2026-10-11T02:48:54.485916",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office régional de mise en valeur agricole de Tadla",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Octobre 2026 - 16:30",
+      "Date concours": "1 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1c979a0f-44c5-4394-9b7f-f1091329386a"
+    },
+    "numero_issue": 131
   }
 ]
