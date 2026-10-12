@@ -1993,5 +1993,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/c15e6737-a3f2-4b79-ab63-80d162acf4ae"
     },
     "numero_issue": 133
+  },
+  {
+    "id": "ministère de l’agriculture, de la pêche maritime, du développement rural et des eaux et forêts - département de l’agriculture|avis de concours de recrutement de administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/7c571fa5-42a7-46a6-8021-aed9ed9ec5f0",
+    "date_detection": "2026-10-12T16:17:38.157672",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Agriculture, de la Pêche maritime, du développement rural et des eaux et forêts - Département de l’Agriculture",
+      "Grade": "Avis de concours de recrutement de Administrateur 2ème grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Octobre 2026 - 16:30",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7c571fa5-42a7-46a6-8021-aed9ed9ec5f0"
+    },
+    "numero_issue": 134
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|publication de la liste des résultats pour le concours de recrutement d'un technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366",
+    "date_detection": "2026-10-12T16:17:38.157707",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Publication de la liste des résultats pour le concours de recrutement d'un Technicien de 3ème grade - Echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Septembre 2026 - 16:30",
+      "Date concours": "4 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366"
+    },
+    "numero_issue": 135
   }
 ]
