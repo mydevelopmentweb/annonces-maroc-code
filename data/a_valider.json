@@ -2023,5 +2023,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/163393e4-8773-494e-ba2d-ad108262c366"
     },
     "numero_issue": 135
+  },
+  {
+    "id": "centre de l'energie, des sciences et techniques nucléaires|secrétaire de direction|https://www.emploi-public.ma/fr/concours/details/017f6169-91af-4c7f-996d-25b2d109dbc5",
+    "date_detection": "2026-10-13T04:27:48.672372",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre de l'Energie, des Sciences et Techniques Nucléaires",
+      "Grade": "Secrétaire de direction",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/017f6169-91af-4c7f-996d-25b2d109dbc5"
+    },
+    "numero_issue": 136
+  },
+  {
+    "id": "province de ouezzane|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/92084d9e-70c0-439e-8875-661a16fc3071",
+    "date_detection": "2026-10-13T04:27:48.672388",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Ouezzane",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Octobre 2026 - 16:30",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/92084d9e-70c0-439e-8875-661a16fc3071"
+    },
+    "numero_issue": 137
+  },
+  {
+    "id": "centre régional d'investissement de la région de l'oriental|cadre au service traitement des conventions d'investissement|https://www.emploi-public.ma/fr/concours/details/9de84bc6-7ae5-41d3-9a9f-91554b9ed02b",
+    "date_detection": "2026-10-13T04:27:48.672392",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre Régional d'Investissement de la région de l'Oriental",
+      "Grade": "CADRE AU SERVICE TRAITEMENT DES CONVENTIONS D'INVESTISSEMENT",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9de84bc6-7ae5-41d3-9a9f-91554b9ed02b"
+    },
+    "numero_issue": 138
+  },
+  {
+    "id": "caisse de dépôt et de gestion|responsable supervision taux et actions|https://www.emploi-public.ma/fr/concours/details/e9cfe51b-c504-4210-9725-4f37683ea08d",
+    "date_detection": "2026-10-13T04:27:48.672395",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse de Dépôt et de Gestion",
+      "Grade": "Responsable Supervision Taux et Actions",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e9cfe51b-c504-4210-9725-4f37683ea08d"
+    },
+    "numero_issue": 139
   }
 ]
