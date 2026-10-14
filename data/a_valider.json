@@ -2083,5 +2083,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/e9cfe51b-c504-4210-9725-4f37683ea08d"
     },
     "numero_issue": 139
+  },
+  {
+    "id": "centre régional d'investissement de la région de l'oriental|cadre au service controle de gestion|https://www.emploi-public.ma/fr/concours/details/1c493a75-6e8d-4e35-8bf3-d2a0789da502",
+    "date_detection": "2026-10-14T02:37:43.783260",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre Régional d'Investissement de la région de l'Oriental",
+      "Grade": "CADRE AU SERVICE CONTROLE DE GESTION",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1c493a75-6e8d-4e35-8bf3-d2a0789da502"
+    },
+    "numero_issue": 140
+  },
+  {
+    "id": "fondation ecole centrale casablanca|assistante scolarité|https://www.emploi-public.ma/fr/concours/details/bf228dce-525d-4bb0-961a-e71169d6938e",
+    "date_detection": "2026-10-14T02:37:43.783281",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Fondation Ecole Centrale Casablanca",
+      "Grade": "Assistante scolarité",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/bf228dce-525d-4bb0-961a-e71169d6938e"
+    },
+    "numero_issue": 141
+  },
+  {
+    "id": "khouribgha aménagement et développement sa (kadev)|assistante de direction|https://www.emploi-public.ma/fr/concours/details/c7b80ec7-c4ab-4e7f-8210-caf8773551e3",
+    "date_detection": "2026-10-14T02:37:43.783285",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Khouribgha Aménagement et Développement sa (KADEV)",
+      "Grade": "Assistante de Direction",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Octobre 2026 - 15:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c7b80ec7-c4ab-4e7f-8210-caf8773551e3"
+    },
+    "numero_issue": 142
+  },
+  {
+    "id": "khouribgha aménagement et développement sa (kadev)|technicien en génie civil (h/f)|https://www.emploi-public.ma/fr/concours/details/baf4c125-9b1e-4fc1-84e2-0d720e7caf80",
+    "date_detection": "2026-10-14T02:37:43.783288",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Khouribgha Aménagement et Développement sa (KADEV)",
+      "Grade": "Technicien en Génie Civil (H/F)",
+      "Nombre postes": "",
+      "Délai dépôt": "15 Octobre 2026 - 15:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/baf4c125-9b1e-4fc1-84e2-0d720e7caf80"
+    },
+    "numero_issue": 143
   }
 ]
