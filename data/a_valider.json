@@ -2143,5 +2143,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/baf4c125-9b1e-4fc1-84e2-0d720e7caf80"
     },
     "numero_issue": 143
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire et des sports - département de l’education nationale|publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/bd7d21e6-ce27-4590-9ae0-ba4755897c51",
+    "date_detection": "2026-10-14T14:10:25.488758",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education nationale, du Préscolaire et des Sports - Département de l’Education nationale",
+      "Grade": "Publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un Ingénieur d'Etat 1er grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026 - 16:30",
+      "Date concours": "17 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/bd7d21e6-ce27-4590-9ae0-ba4755897c51"
+    },
+    "numero_issue": 144
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire et des sports - département de l’education nationale|publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/8cad4f28-8207-43e7-b653-29498a7ed5e0",
+    "date_detection": "2026-10-14T14:10:25.488774",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education nationale, du Préscolaire et des Sports - Département de l’Education nationale",
+      "Grade": "Publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un Administrateur 3ème grade - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026 - 16:30",
+      "Date concours": "17 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8cad4f28-8207-43e7-b653-29498a7ed5e0"
+    },
+    "numero_issue": 145
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire et des sports - département de l’education nationale|publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/8056cf15-3c75-4428-a0b1-a75387b069bd",
+    "date_detection": "2026-10-14T14:10:25.488778",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education nationale, du Préscolaire et des Sports - Département de l’Education nationale",
+      "Grade": "Publication de la liste des convoqués pour l'examen écrit du concours de recrutement d'un Administrateur 2ème grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Octobre 2026 - 16:30",
+      "Date concours": "17 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8056cf15-3c75-4428-a0b1-a75387b069bd"
+    },
+    "numero_issue": 146
   }
 ]
