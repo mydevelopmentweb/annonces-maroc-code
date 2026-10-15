@@ -2188,5 +2188,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/8056cf15-3c75-4428-a0b1-a75387b069bd"
     },
     "numero_issue": 146
+  },
+  {
+    "id": "centre de l'energie, des sciences et techniques nucléaires|ingénieur en informatique|https://www.emploi-public.ma/fr/concours/details/71982981-56a8-4138-afa4-4f23385b482a",
+    "date_detection": "2026-10-15T06:41:52.437612",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre de l'Energie, des Sciences et Techniques Nucléaires",
+      "Grade": "Ingénieur en informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/71982981-56a8-4138-afa4-4f23385b482a"
+    },
+    "numero_issue": 147
+  },
+  {
+    "id": "office régional de mise en valeur agricole de doukkala|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/a5478eac-686b-4524-aac0-8fe595483a24",
+    "date_detection": "2026-10-15T06:41:52.437627",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office régional de mise en valeur agricole de Doukkala",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Octobre 2026 - 16:30",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a5478eac-686b-4524-aac0-8fe595483a24"
+    },
+    "numero_issue": 148
+  },
+  {
+    "id": "office régional de mise en valeur agricole de doukkala|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/6c4aff2a-6f6c-4306-87f6-787dda8dd775",
+    "date_detection": "2026-10-15T06:41:52.437631",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office régional de mise en valeur agricole de Doukkala",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Octobre 2026 - 16:30",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6c4aff2a-6f6c-4306-87f6-787dda8dd775"
+    },
+    "numero_issue": 149
+  },
+  {
+    "id": "office régional de mise en valeur agricole de doukkala|administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/a5f8e0e8-e2ef-4e59-a693-d5d4aeb730a1",
+    "date_detection": "2026-10-15T06:41:52.437634",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office régional de mise en valeur agricole de Doukkala",
+      "Grade": "Administrateur 3ème grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Octobre 2026 - 16:30",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a5f8e0e8-e2ef-4e59-a693-d5d4aeb730a1"
+    },
+    "numero_issue": 150
   }
 ]
