@@ -2248,5 +2248,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/a5f8e0e8-e2ef-4e59-a693-d5d4aeb730a1"
     },
     "numero_issue": 150
+  },
+  {
+    "id": "université cadi ayyad|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/e09feb19-c9cb-4e4c-ba21-c689856b9f75",
+    "date_detection": "2026-10-16T02:09:41.342499",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Octobre 2026",
+      "Date concours": "23 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e09feb19-c9cb-4e4c-ba21-c689856b9f75"
+    },
+    "numero_issue": 151
+  },
+  {
+    "id": "université cadi ayyad|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/17bb9724-ceba-495a-b902-3930217e2fd6",
+    "date_detection": "2026-10-16T02:09:41.342513",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Octobre 2026",
+      "Date concours": "23 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/17bb9724-ceba-495a-b902-3930217e2fd6"
+    },
+    "numero_issue": 152
+  },
+  {
+    "id": "université cadi ayyad|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/e7d19bc5-3bd3-4ea8-9fec-7856e73e7a12",
+    "date_detection": "2026-10-16T02:09:41.342516",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Octobre 2026",
+      "Date concours": "23 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e7d19bc5-3bd3-4ea8-9fec-7856e73e7a12"
+    },
+    "numero_issue": 153
+  },
+  {
+    "id": "université cadi ayyad|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/4f904add-8099-41fe-b5e5-94bba003e540",
+    "date_detection": "2026-10-16T02:09:41.342519",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Octobre 2026",
+      "Date concours": "23 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4f904add-8099-41fe-b5e5-94bba003e540"
+    },
+    "numero_issue": 154
   }
 ]
