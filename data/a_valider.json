@@ -2308,5 +2308,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/4f904add-8099-41fe-b5e5-94bba003e540"
     },
     "numero_issue": 154
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|avis de concours de recrutement de adjoint technique 2ème grade|https://www.emploi-public.ma/fr/concours/details/cdda2f24-9751-4129-85a7-220a7716847a",
+    "date_detection": "2026-10-16T12:50:28.634664",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Avis de concours de recrutement de Adjoint technique 2ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cdda2f24-9751-4129-85a7-220a7716847a"
+    },
+    "numero_issue": 155
+  },
+  {
+    "id": "ministère de la solidarité, de l’insertion sociale et de la famille|avis de concours de recrutement de technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/17f2da87-11bb-4fb4-8b3c-1712f117c3ce",
+    "date_detection": "2026-10-16T12:50:28.634680",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Solidarité, de l’Insertion sociale et de la Famille",
+      "Grade": "Avis de concours de recrutement de Technicien de 3ème grade - Echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/17f2da87-11bb-4fb4-8b3c-1712f117c3ce"
+    },
+    "numero_issue": 156
   }
 ]
