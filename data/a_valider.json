@@ -2353,5 +2353,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/0bc3b58e-cfd7-466e-9023-6faf53a94738"
     },
     "numero_issue": 157
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(responsable des opérations de restauration et de catering (rh 103/2026|https://www.emploi-public.ma/fr/concours/details/e3e3c393-52fc-406c-a2e1-e79965306c67",
+    "date_detection": "2026-10-17T02:03:19.318795",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Responsable des Opérations de Restauration et de Catering (RH 103/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e3e3c393-52fc-406c-a2e1-e79965306c67"
+    },
+    "numero_issue": 158
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(formateur en tapis - errachidia (rh 104/2026|https://www.emploi-public.ma/fr/concours/details/0f44400d-0987-4550-8ef6-442063a954a7",
+    "date_detection": "2026-10-17T02:03:19.318808",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Formateur en tapis - Errachidia (RH 104/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0f44400d-0987-4550-8ef6-442063a954a7"
+    },
+    "numero_issue": 159
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(formateur en développement digital (bac+5) - errachidia (rh 105/2026|https://www.emploi-public.ma/fr/concours/details/d1e3d3f1-2fd5-43ce-8231-599d9788c858",
+    "date_detection": "2026-10-17T02:03:19.318811",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Formateur en développement digital (BAC+5) - Errachidia (RH 105/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d1e3d3f1-2fd5-43ce-8231-599d9788c858"
+    },
+    "numero_issue": 160
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(formateur en infrastructure digitale - errachidia (rh 106/2026|https://www.emploi-public.ma/fr/concours/details/23ae9209-619c-453e-ac20-0fc3fe3c467d",
+    "date_detection": "2026-10-17T02:03:19.318813",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Formateur en Infrastructure Digitale - Errachidia (RH 106/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/23ae9209-619c-453e-ac20-0fc3fe3c467d"
+    },
+    "numero_issue": 161
   }
 ]
