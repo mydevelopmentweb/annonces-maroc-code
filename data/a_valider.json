@@ -2413,5 +2413,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/23ae9209-619c-453e-ac20-0fc3fe3c467d"
     },
     "numero_issue": 161
+  },
+  {
+    "id": "agence urbaine de taza|technicien en architecture et urbanisme|https://www.emploi-public.ma/fr/concours/details/0418b9e6-1340-4bae-aaf7-ff40b0eb1bc0",
+    "date_detection": "2026-10-18T02:02:42.695347",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence urbaine de Taza",
+      "Grade": "Technicien en architecture et urbanisme",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026 - 16:00",
+      "Date concours": "4 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0418b9e6-1340-4bae-aaf7-ff40b0eb1bc0"
+    },
+    "numero_issue": 162
+  },
+  {
+    "id": "agence urbaine de taza|chauffeur|https://www.emploi-public.ma/fr/concours/details/ccdc2c80-6790-41af-87c9-e7eee8081ffc",
+    "date_detection": "2026-10-18T02:02:42.695360",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence urbaine de Taza",
+      "Grade": "Chauffeur",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026 - 16:00",
+      "Date concours": "5 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ccdc2c80-6790-41af-87c9-e7eee8081ffc"
+    },
+    "numero_issue": 163
+  },
+  {
+    "id": "province d'essaouira|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/268969f6-8734-4c0e-96da-198f3f5ffb31",
+    "date_detection": "2026-10-18T02:02:42.695364",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province d'Essaouira",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026 - 16:30",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/268969f6-8734-4c0e-96da-198f3f5ffb31"
+    },
+    "numero_issue": 164
+  },
+  {
+    "id": "office régional de mise en valeur agricole de tafilalet|ingénieurs d'etat de 1er grade|https://www.emploi-public.ma/fr/concours/details/61c62967-03dd-4030-a34d-a89e5f3edd62",
+    "date_detection": "2026-10-18T02:02:42.695367",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office régional de mise en valeur agricole de Tafilalet",
+      "Grade": "Ingénieurs d'Etat de 1er grade",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/61c62967-03dd-4030-a34d-a89e5f3edd62"
+    },
+    "numero_issue": 165
   }
 ]
