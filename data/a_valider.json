@@ -2473,5 +2473,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/61c62967-03dd-4030-a34d-a89e5f3edd62"
     },
     "numero_issue": 165
+  },
+  {
+    "id": "fondation pour la promotion des œuvres sociales du personnel des eaux et forêts|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/3dabdbc2-1497-49cf-a654-48aa3bc7b4a8",
+    "date_detection": "2026-10-19T00:35:48.653406",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Fondation pour la Promotion des Œuvres Sociales du Personnel des Eaux et Forêts",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3dabdbc2-1497-49cf-a654-48aa3bc7b4a8"
+    },
+    "numero_issue": 166
+  },
+  {
+    "id": "agence nationale de lutte contre l'analphabétisme|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/5a9ef0cb-794c-40d7-b0ad-a0a5444c4992",
+    "date_detection": "2026-10-19T00:35:48.653421",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale de Lutte contre l'Analphabétisme",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5a9ef0cb-794c-40d7-b0ad-a0a5444c4992"
+    },
+    "numero_issue": 167
+  },
+  {
+    "id": "agence nationale de lutte contre l'analphabétisme|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/1f29080a-9776-45c3-87ec-d0d1b6971e27",
+    "date_detection": "2026-10-19T00:35:48.653425",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale de Lutte contre l'Analphabétisme",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Octobre 2026",
+      "Date concours": "8 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1f29080a-9776-45c3-87ec-d0d1b6971e27"
+    },
+    "numero_issue": 168
+  },
+  {
+    "id": "chambre de commerce d'industrie et de services de la région souss massa|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/c1331468-dfd4-41bd-87cc-7fe369a80804",
+    "date_detection": "2026-10-19T00:35:48.653428",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Chambre de commerce d'industrie et de services de la région Souss Massa",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "20 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c1331468-dfd4-41bd-87cc-7fe369a80804"
+    },
+    "numero_issue": 169
   }
 ]
