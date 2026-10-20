@@ -2653,5 +2653,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/7c571fa5-42a7-46a6-8021-aed9ed9ec5f0"
     },
     "numero_issue": 177
+  },
+  {
+    "id": "chambre de commerce d'industrie et de services de la région souss massa|administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/98bb6a45-de89-4080-8e03-d91f538653dc",
+    "date_detection": "2026-10-20T00:48:28.901996",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Chambre de commerce d'industrie et de services de la région Souss Massa",
+      "Grade": "Administrateur 3ème grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "20 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/98bb6a45-de89-4080-8e03-d91f538653dc"
+    },
+    "numero_issue": 178
+  },
+  {
+    "id": "chambre de commerce d'industrie et de services de la région souss massa|administrateur 3ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/70902cbf-8259-4c20-90b5-b5f383854ddf",
+    "date_detection": "2026-10-20T00:48:28.902007",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Chambre de commerce d'industrie et de services de la région Souss Massa",
+      "Grade": "Administrateur 3ème grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "20 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/70902cbf-8259-4c20-90b5-b5f383854ddf"
+    },
+    "numero_issue": 179
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à la fsa ouarzazate spécialité informatique embarquée et génie électrique|https://www.emploi-public.ma/fr/concours/details/7c1d769e-bc86-4ed8-a640-9a04a11e9072",
+    "date_detection": "2026-10-20T00:48:28.902011",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à la FSA Ouarzazate spécialité informatique embarquée et génie électrique",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Octobre 2026",
+      "Date concours": "27 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7c1d769e-bc86-4ed8-a640-9a04a11e9072"
+    },
+    "numero_issue": 180
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à la fsa ouarzazate spécialité informatique|https://www.emploi-public.ma/fr/concours/details/18ddfeee-6114-4dc5-b266-503297e24986",
+    "date_detection": "2026-10-20T00:48:28.902014",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à la FSA Ouarzazate spécialité informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Octobre 2026",
+      "Date concours": "27 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/18ddfeee-6114-4dc5-b266-503297e24986"
+    },
+    "numero_issue": 181
   }
 ]
