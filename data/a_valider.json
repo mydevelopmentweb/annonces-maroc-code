@@ -2713,5 +2713,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/18ddfeee-6114-4dc5-b266-503297e24986"
     },
     "numero_issue": 181
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade spécialité informatique à l'ensiasd taroudant|https://www.emploi-public.ma/fr/concours/details/2fb165a9-1388-49c5-a6a4-85674202f96c",
+    "date_detection": "2026-10-21T01:07:08.515341",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade spécialité Informatique à l'ENSIASD TAROUDANT",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026",
+      "Date concours": "29 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/2fb165a9-1388-49c5-a6a4-85674202f96c"
+    },
+    "numero_issue": 182
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à la fmpa spécialité gestion des entreprises|https://www.emploi-public.ma/fr/concours/details/d1e1e38c-271f-4f5d-9fec-3707d4525dc9",
+    "date_detection": "2026-10-21T01:07:08.515354",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à la FMPA spécialité Gestion Des Entreprises",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026",
+      "Date concours": "29 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d1e1e38c-271f-4f5d-9fec-3707d4525dc9"
+    },
+    "numero_issue": 183
+  },
+  {
+    "id": "ecole nationale d’agriculture de meknès|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/e20884c3-abda-45da-bffa-3299805568b8",
+    "date_detection": "2026-10-21T01:07:08.515356",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ecole Nationale d’Agriculture de Meknès",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026 - 15:29",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e20884c3-abda-45da-bffa-3299805568b8"
+    },
+    "numero_issue": 184
+  },
+  {
+    "id": "ecole nationale d’agriculture de meknès|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/c47ab8c9-b994-419e-aae9-846dd8a300e5",
+    "date_detection": "2026-10-21T01:07:08.515358",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ecole Nationale d’Agriculture de Meknès",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026 - 15:29",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c47ab8c9-b994-419e-aae9-846dd8a300e5"
+    },
+    "numero_issue": 185
   }
 ]
