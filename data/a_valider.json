@@ -2773,5 +2773,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/c47ab8c9-b994-419e-aae9-846dd8a300e5"
     },
     "numero_issue": 185
+  },
+  {
+    "id": "agence nationale des ports|technicien en génie civil|https://www.emploi-public.ma/fr/concours/details/07f108e8-8d6e-4974-8c87-53d99b7962f9",
+    "date_detection": "2026-10-22T00:18:23.802162",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Technicien en Génie Civil",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/07f108e8-8d6e-4974-8c87-53d99b7962f9"
+    },
+    "numero_issue": 186
+  },
+  {
+    "id": "agence nationale des ports|technicien en génie electrique|https://www.emploi-public.ma/fr/concours/details/62445386-e42d-481e-9929-17d34bab6a25",
+    "date_detection": "2026-10-22T00:18:23.802175",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Technicien en Génie Electrique",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/62445386-e42d-481e-9929-17d34bab6a25"
+    },
+    "numero_issue": 187
+  },
+  {
+    "id": "agence nationale des ports|ingénieur en génie civil|https://www.emploi-public.ma/fr/concours/details/70765bc3-af31-45a0-91f9-0863f6873763",
+    "date_detection": "2026-10-22T00:18:23.802179",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Ingénieur en Génie Civil",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/70765bc3-af31-45a0-91f9-0863f6873763"
+    },
+    "numero_issue": 188
+  },
+  {
+    "id": "autorité de contrôle des assurances et de la prévoyance sociale|analyste etudes et régulation confirmé|https://www.emploi-public.ma/fr/concours/details/9c69cede-80d5-433b-9605-511e6ee8c10e",
+    "date_detection": "2026-10-22T00:18:23.802182",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Autorité de Contrôle des Assurances et de la Prévoyance Sociale",
+      "Grade": "Analyste Etudes et Régulation Confirmé",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9c69cede-80d5-433b-9605-511e6ee8c10e"
+    },
+    "numero_issue": 189
   }
 ]
