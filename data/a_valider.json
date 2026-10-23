@@ -2833,5 +2833,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/9c69cede-80d5-433b-9605-511e6ee8c10e"
     },
     "numero_issue": 189
+  },
+  {
+    "id": "autorité de contrôle des assurances et de la prévoyance sociale|contrôleur pratiques commerciales confirmé|https://www.emploi-public.ma/fr/concours/details/798fdd07-d212-4ac0-83d2-3b3a038722ff",
+    "date_detection": "2026-10-23T01:05:30.228947",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Autorité de Contrôle des Assurances et de la Prévoyance Sociale",
+      "Grade": "Contrôleur Pratiques Commerciales Confirmé",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/798fdd07-d212-4ac0-83d2-3b3a038722ff"
+    },
+    "numero_issue": 190
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|administrateur 2eme grade|https://www.emploi-public.ma/fr/concours/details/b8681c41-7c55-492c-93a2-90d3e0793ba9",
+    "date_detection": "2026-10-23T01:05:30.228959",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "administrateur 2eme grade",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b8681c41-7c55-492c-93a2-90d3e0793ba9"
+    },
+    "numero_issue": 191
+  },
+  {
+    "id": "université hassan ii - casablanca|maitre de conférences|https://www.emploi-public.ma/fr/concours/details/cec976fc-318e-45db-bda6-208fd15b0eab",
+    "date_detection": "2026-10-23T01:05:30.228963",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Hassan II - Casablanca",
+      "Grade": "Maitre de conférences",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Octobre 2026 - 16:30",
+      "Date concours": "9 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cec976fc-318e-45db-bda6-208fd15b0eab"
+    },
+    "numero_issue": 192
+  },
+  {
+    "id": "agence nationale des ports|cadre gestionnaire du patrimoine foncier|https://www.emploi-public.ma/fr/concours/details/5a042223-f9d3-48d8-9048-bd2924b93288",
+    "date_detection": "2026-10-23T01:05:30.228965",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale des Ports",
+      "Grade": "Cadre Gestionnaire du Patrimoine Foncier",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5a042223-f9d3-48d8-9048-bd2924b93288"
+    },
+    "numero_issue": 193
   }
 ]
