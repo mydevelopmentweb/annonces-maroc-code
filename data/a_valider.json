@@ -2893,5 +2893,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/5a042223-f9d3-48d8-9048-bd2924b93288"
     },
     "numero_issue": 193
+  },
+  {
+    "id": "université mohammed v|technicien 3ème grade à l’ens|https://www.emploi-public.ma/fr/concours/details/7f327bcd-7a8e-478b-a282-c729fcbec86d",
+    "date_detection": "2026-10-24T02:26:55.860358",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed V",
+      "Grade": "Technicien 3ème grade à l’ENS",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Octobre 2026 - 16:30",
+      "Date concours": "1 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7f327bcd-7a8e-478b-a282-c729fcbec86d"
+    },
+    "numero_issue": 194
+  },
+  {
+    "id": "université mohammed premier - oujda|maitre de conférences au profit de l’ecole supérieure de l'education et de la formation oujda|https://www.emploi-public.ma/fr/concours/details/9044a0f0-a4e1-453a-a1cc-f94096414ac6",
+    "date_detection": "2026-10-24T02:26:55.860372",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed Premier - Oujda",
+      "Grade": "Maitre de conférences au profit de l’Ecole Supérieure de l'Education et de la Formation Oujda",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Octobre 2026",
+      "Date concours": "31 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9044a0f0-a4e1-453a-a1cc-f94096414ac6"
+    },
+    "numero_issue": 195
+  },
+  {
+    "id": "université mohammed premier - oujda|maitre de conférences au profit de la faculté des langues, des lettres et des arts nador|https://www.emploi-public.ma/fr/concours/details/3d27a7a3-01ef-4a43-b866-55d3e54e8fd2",
+    "date_detection": "2026-10-24T02:26:55.860375",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed Premier - Oujda",
+      "Grade": "Maitre de conférences au profit de la faculté des langues, des lettres et des arts Nador",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Octobre 2026",
+      "Date concours": "31 Octobre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3d27a7a3-01ef-4a43-b866-55d3e54e8fd2"
+    },
+    "numero_issue": 196
   }
 ]
