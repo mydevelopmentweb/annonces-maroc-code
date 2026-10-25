@@ -2938,5 +2938,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/3d27a7a3-01ef-4a43-b866-55d3e54e8fd2"
     },
     "numero_issue": 196
+  },
+  {
+    "id": "province de khemisset|infirmier de premier grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/36057d05-113f-4f6c-afe3-d760a59704fe",
+    "date_detection": "2026-10-25T00:40:23.703716",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de khemisset",
+      "Grade": "Infirmier de premier grade - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Octobre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/36057d05-113f-4f6c-afe3-d760a59704fe"
+    },
+    "numero_issue": 197
+  },
+  {
+    "id": "province de khemisset|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/db759561-28aa-4ece-9081-35833f01a1f0",
+    "date_detection": "2026-10-25T00:40:23.703729",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de khemisset",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Octobre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/db759561-28aa-4ece-9081-35833f01a1f0"
+    },
+    "numero_issue": 198
+  },
+  {
+    "id": "province de khemisset|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/965e9a53-0172-4410-a886-79f1b183190f",
+    "date_detection": "2026-10-25T00:40:23.703733",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de khemisset",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Octobre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/965e9a53-0172-4410-a886-79f1b183190f"
+    },
+    "numero_issue": 199
+  },
+  {
+    "id": "province de khemisset|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/2cc27d4c-f8ff-4986-a4b1-7db7f8d0a6bb",
+    "date_detection": "2026-10-25T00:40:23.703736",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de khemisset",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Octobre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/2cc27d4c-f8ff-4986-a4b1-7db7f8d0a6bb"
+    },
+    "numero_issue": 200
   }
 ]
