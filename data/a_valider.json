@@ -2998,5 +2998,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/2cc27d4c-f8ff-4986-a4b1-7db7f8d0a6bb"
     },
     "numero_issue": 200
+  },
+  {
+    "id": "office national du conseil agricole|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/ccda0643-f056-4505-857a-545387c793dd",
+    "date_detection": "2026-10-26T00:51:22.053085",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National du conseil agricole",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Octobre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ccda0643-f056-4505-857a-545387c793dd"
+    },
+    "numero_issue": 201
+  },
+  {
+    "id": "centre de l'energie, des sciences et techniques nucléaires|cadre supérieur en sûreté|https://www.emploi-public.ma/fr/concours/details/664ad6a3-9ea8-4320-9a6f-c9b7bf448102",
+    "date_detection": "2026-10-26T00:51:22.053100",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre de l'Energie, des Sciences et Techniques Nucléaires",
+      "Grade": "Cadre supérieur en sûreté",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/664ad6a3-9ea8-4320-9a6f-c9b7bf448102"
+    },
+    "numero_issue": 202
+  },
+  {
+    "id": "université mohammed v|maitres de conferences – civils et militaires à la fmpr|https://www.emploi-public.ma/fr/concours/details/3e671e9b-8862-4736-a064-bc0727ed935b",
+    "date_detection": "2026-10-26T00:51:22.053104",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed V",
+      "Grade": "MAITRES DE CONFERENCES – CIVILS ET MILITAIRES à la FMPR",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Octobre 2026 - 16:30",
+      "Date concours": "17 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3e671e9b-8862-4736-a064-bc0727ed935b"
+    },
+    "numero_issue": 203
+  },
+  {
+    "id": "société royale d'encouragement du cheval (sorec)|- rabat chargé des courses à handicaps ( h/f)|https://www.emploi-public.ma/fr/concours/details/61cfccb1-6271-41a2-ad4e-9b5eed022b99",
+    "date_detection": "2026-10-26T00:51:22.053108",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Royale d'Encouragement du Cheval (SOREC)",
+      "Grade": "- Rabat Chargé des courses à handicaps ( H/F)",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Octobre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/61cfccb1-6271-41a2-ad4e-9b5eed022b99"
+    },
+    "numero_issue": 204
   }
 ]
