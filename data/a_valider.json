@@ -3073,5 +3073,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/fb2e5ca9-e80e-4765-afc1-587b15f0ae33"
     },
     "numero_issue": 205
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle tourisme et hôtellerie -casablanca (rh 115/2026|https://www.emploi-public.ma/fr/concours/details/ec7de795-96d5-46d9-8cd1-dcc403c02512",
+    "date_detection": "2026-10-27T01:42:33.446930",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle Tourisme et Hôtellerie -Casablanca (RH 115/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ec7de795-96d5-46d9-8cd1-dcc403c02512"
+    },
+    "numero_issue": 206
+  },
+  {
+    "id": "province tiznit|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/b98254cb-ba87-4a1f-a640-dbf8cfedb1ef",
+    "date_detection": "2026-10-27T01:42:33.446949",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province Tiznit",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Octobre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b98254cb-ba87-4a1f-a640-dbf8cfedb1ef"
+    },
+    "numero_issue": 207
+  },
+  {
+    "id": "agence marocaine des médicaments et des produits de santé|archiviste documentaliste|https://www.emploi-public.ma/fr/concours/details/a401e758-b9e3-46ab-b171-996f5b20e4f2",
+    "date_detection": "2026-10-27T01:42:33.446955",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine des Médicaments et des Produits de Santé",
+      "Grade": "Archiviste Documentaliste",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Octobre 2026 - 18:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a401e758-b9e3-46ab-b171-996f5b20e4f2"
+    },
+    "numero_issue": 208
   }
 ]
