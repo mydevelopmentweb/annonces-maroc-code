@@ -3118,5 +3118,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/a401e758-b9e3-46ab-b171-996f5b20e4f2"
     },
     "numero_issue": 208
+  },
+  {
+    "id": "agence marocaine des médicaments et des produits de santé|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/9152847c-b845-4d56-a9e6-95f8ababddb8",
+    "date_detection": "2026-10-28T02:58:23.536004",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine des Médicaments et des Produits de Santé",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9152847c-b845-4d56-a9e6-95f8ababddb8"
+    },
+    "numero_issue": 209
+  },
+  {
+    "id": "sdl marrakech moussafir s.a|vice-directeur|https://www.emploi-public.ma/fr/concours/details/9184ebef-9cb3-4996-8aef-edbcdbe5ed13",
+    "date_detection": "2026-10-28T02:58:23.536016",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "SDL MARRAKECH MOUSSAFIR S.A",
+      "Grade": "Vice-Directeur",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9184ebef-9cb3-4996-8aef-edbcdbe5ed13"
+    },
+    "numero_issue": 210
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(auditeur (rh 116/2026|https://www.emploi-public.ma/fr/concours/details/dcbaa097-b156-495d-ad61-5d3adad082dd",
+    "date_detection": "2026-10-28T02:58:23.536023",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Auditeur (RH 116/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/dcbaa097-b156-495d-ad61-5d3adad082dd"
+    },
+    "numero_issue": 211
+  },
+  {
+    "id": "mediouna service sa|agent informatique|https://www.emploi-public.ma/fr/concours/details/881b2d20-4b73-4d68-9489-17013ef786dc",
+    "date_detection": "2026-10-28T02:58:23.536042",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "MEDIOUNA SERVICE SA",
+      "Grade": "Agent Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/881b2d20-4b73-4d68-9489-17013ef786dc"
+    },
+    "numero_issue": 212
   }
 ]
