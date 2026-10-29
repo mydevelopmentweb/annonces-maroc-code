@@ -3238,5 +3238,20 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/56ae458c-b41b-4f88-92dd-99cede278e79"
     },
     "numero_issue": 216
+  },
+  {
+    "id": "haut commissariat au plan|avis de concours de recrutement de administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/144317d0-3827-46f6-94c3-a5fbd18b2c85",
+    "date_detection": "2026-10-29T19:56:47.204048",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Haut commissariat au plan",
+      "Grade": "Avis de concours de recrutement de Administrateur 2ème grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Novembre 2026 - 16:30",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/144317d0-3827-46f6-94c3-a5fbd18b2c85"
+    },
+    "numero_issue": 217
   }
 ]
