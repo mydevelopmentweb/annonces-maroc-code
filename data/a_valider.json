@@ -3178,5 +3178,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/881b2d20-4b73-4d68-9489-17013ef786dc"
     },
     "numero_issue": 212
+  },
+  {
+    "id": "mediouna service sa|responsable de site de bibliothèque -médiathèque|https://www.emploi-public.ma/fr/concours/details/03df06ea-c270-470e-a982-e31d036c11b9",
+    "date_detection": "2026-10-29T01:22:51.932785",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "MEDIOUNA SERVICE SA",
+      "Grade": "Responsable de site de Bibliothèque -Médiathèque",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/03df06ea-c270-470e-a982-e31d036c11b9"
+    },
+    "numero_issue": 213
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(formateur « sécurité minière » (rh 117/2026|https://www.emploi-public.ma/fr/concours/details/3ee73017-d2cf-4d63-ae05-5b4be0b966d5",
+    "date_detection": "2026-10-29T01:22:51.932799",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Formateur « Sécurité minière » (RH 117/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3ee73017-d2cf-4d63-ae05-5b4be0b966d5"
+    },
+    "numero_issue": 214
+  },
+  {
+    "id": "ecole nationale de l'administration (ena)|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/9142edec-6a9a-4f66-86bf-bade8163d4d4",
+    "date_detection": "2026-10-29T01:22:51.932803",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ecole Nationale de l'Administration (ENA)",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9142edec-6a9a-4f66-86bf-bade8163d4d4"
+    },
+    "numero_issue": 215
+  },
+  {
+    "id": "société de développement régional pour la promotion de la toute petite, la petite et la moyenne entreprises touristiques souss-massa|agent polyvalent|https://www.emploi-public.ma/fr/concours/details/56ae458c-b41b-4f88-92dd-99cede278e79",
+    "date_detection": "2026-10-29T01:22:51.932807",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société de Développement Régional pour la Promotion de la Toute Petite, la Petite et la Moyenne Entreprises Touristiques Souss-Massa",
+      "Grade": "Agent polyvalent",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Octobre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/56ae458c-b41b-4f88-92dd-99cede278e79"
+    },
+    "numero_issue": 216
   }
 ]
