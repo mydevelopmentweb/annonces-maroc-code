@@ -3253,5 +3253,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/144317d0-3827-46f6-94c3-a5fbd18b2c85"
     },
     "numero_issue": 217
+  },
+  {
+    "id": "agence régionale d'exécution des projets région de béni mellal khénifra|ingénieur/cadre en génie civil ou équivalent et architecte|https://www.emploi-public.ma/fr/concours/details/4b337dfd-a342-45b5-b96c-fefd62b71b49",
+    "date_detection": "2026-10-30T03:26:42.133114",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Régionale d'exécution des projets région de Béni Mellal Khénifra",
+      "Grade": "Ingénieur/Cadre en Génie civil ou équivalent et Architecte",
+      "Nombre postes": "",
+      "Délai dépôt": "30 Octobre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4b337dfd-a342-45b5-b96c-fefd62b71b49"
+    },
+    "numero_issue": 218
+  },
+  {
+    "id": "université cadi ayyad|résidant|https://www.emploi-public.ma/fr/concours/details/ac5c4cfb-26e0-4dc8-ba1e-f2c83de405d5",
+    "date_detection": "2026-10-30T03:26:42.133128",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Cadi Ayyad",
+      "Grade": "Résidant",
+      "Nombre postes": "",
+      "Délai dépôt": "31 Octobre 2026",
+      "Date concours": "16 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ac5c4cfb-26e0-4dc8-ba1e-f2c83de405d5"
+    },
+    "numero_issue": 219
+  },
+  {
+    "id": "ministère de l’intérieur -direction générale de la protection civile-|élèves officiers - echelle 10|https://www.emploi-public.ma/fr/concours/details/0bc3b58e-cfd7-466e-9023-6faf53a94738",
+    "date_detection": "2026-10-30T03:26:42.133132",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Direction Générale de la Protection Civile-",
+      "Grade": "Élèves officiers - echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "31 Octobre 2026",
+      "Date concours": "16 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0bc3b58e-cfd7-466e-9023-6faf53a94738"
+    },
+    "numero_issue": 220
+  },
+  {
+    "id": "université hassan ii - casablanca|résidents- faculté de médecine et de pharmacie de casablanca|https://www.emploi-public.ma/fr/concours/details/b9083888-d29b-4586-bedc-254dc97adedf",
+    "date_detection": "2026-10-30T03:26:42.133135",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Hassan II - Casablanca",
+      "Grade": "Résidents- Faculté de Médecine et de Pharmacie de Casablanca",
+      "Nombre postes": "",
+      "Délai dépôt": "31 Octobre 2026 - 16:30",
+      "Date concours": "16 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b9083888-d29b-4586-bedc-254dc97adedf"
+    },
+    "numero_issue": 221
   }
 ]
