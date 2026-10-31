@@ -3313,5 +3313,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/b9083888-d29b-4586-bedc-254dc97adedf"
     },
     "numero_issue": 221
+  },
+  {
+    "id": "agence pour le développement agricole|ingénieur d'etat et technicien spécialisé|https://www.emploi-public.ma/fr/concours/details/3500bc17-f0cd-4535-b1a8-64563c9bb84b",
+    "date_detection": "2026-10-31T01:13:36.832744",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence pour le Développement Agricole",
+      "Grade": "Ingénieur d'Etat et Technicien spécialisé",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Novembre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3500bc17-f0cd-4535-b1a8-64563c9bb84b"
+    },
+    "numero_issue": 222
+  },
+  {
+    "id": "agence urbaine de nador|architecte|https://www.emploi-public.ma/fr/concours/details/f6cf49da-01ee-4db7-b51a-1659a9e4eea2",
+    "date_detection": "2026-10-31T01:13:36.832755",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence urbaine de Nador",
+      "Grade": "ARCHITECTE",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Novembre 2026 - 16:30",
+      "Date concours": "19 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f6cf49da-01ee-4db7-b51a-1659a9e4eea2"
+    },
+    "numero_issue": 223
+  },
+  {
+    "id": "bank al-maghrib|chargé de suivi dossiers d'assurances|https://www.emploi-public.ma/fr/concours/details/d0a32a44-0138-4be0-bc53-8159712e6edc",
+    "date_detection": "2026-10-31T01:13:36.832759",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Bank Al-Maghrib",
+      "Grade": "Chargé de suivi dossiers d'assurances",
+      "Nombre postes": "",
+      "Délai dépôt": "2 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d0a32a44-0138-4be0-bc53-8159712e6edc"
+    },
+    "numero_issue": 224
+  },
+  {
+    "id": "société nationales des transports et de logistique (sntl)|technicien comptable|https://www.emploi-public.ma/fr/concours/details/e7379c18-857e-4135-be2a-53365d665497",
+    "date_detection": "2026-10-31T01:13:36.832762",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Nationales des Transports et de Logistique (SNTL)",
+      "Grade": "Technicien Comptable",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Novembre 2026 - 23:55",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e7379c18-857e-4135-be2a-53365d665497"
+    },
+    "numero_issue": 225
   }
 ]
