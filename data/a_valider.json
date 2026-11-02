@@ -3373,5 +3373,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/e7379c18-857e-4135-be2a-53365d665497"
     },
     "numero_issue": 225
+  },
+  {
+    "id": "société nationales des transports et de logistique (sntl)|assistant juriste|https://www.emploi-public.ma/fr/concours/details/8df1189c-3b8a-40d0-b085-78758d3faa7d",
+    "date_detection": "2026-11-02T03:18:00.036828",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Nationales des Transports et de Logistique (SNTL)",
+      "Grade": "Assistant Juriste",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Novembre 2026 - 23:55",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8df1189c-3b8a-40d0-b085-78758d3faa7d"
+    },
+    "numero_issue": 226
+  },
+  {
+    "id": "société nationales des transports et de logistique (sntl)|technicien en développement logiciel|https://www.emploi-public.ma/fr/concours/details/c7a92e36-cc06-48a4-9c8d-22c4e339a716",
+    "date_detection": "2026-11-02T03:18:00.036842",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Nationales des Transports et de Logistique (SNTL)",
+      "Grade": "Technicien en Développement Logiciel",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Novembre 2026 - 23:55",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c7a92e36-cc06-48a4-9c8d-22c4e339a716"
+    },
+    "numero_issue": 227
+  },
+  {
+    "id": "société nationales des transports et de logistique (sntl)|cadre supérieur juriste|https://www.emploi-public.ma/fr/concours/details/22e15000-86a6-4c58-87a2-9db969a11a7a",
+    "date_detection": "2026-11-02T03:18:00.036845",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Nationales des Transports et de Logistique (SNTL)",
+      "Grade": "Cadre Supérieur Juriste",
+      "Nombre postes": "",
+      "Délai dépôt": "3 Novembre 2026 - 23:55",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/22e15000-86a6-4c58-87a2-9db969a11a7a"
+    },
+    "numero_issue": 228
   }
 ]
