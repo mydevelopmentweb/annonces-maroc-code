@@ -3418,5 +3418,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/22e15000-86a6-4c58-87a2-9db969a11a7a"
     },
     "numero_issue": 228
+  },
+  {
+    "id": "université ibn zohr - agadir|ingénieur d'etat 1er grade à la présidence de l’uiz spécialité architecture|https://www.emploi-public.ma/fr/concours/details/df87a1d1-71a8-4e3d-96c2-6156dd3cf0cb",
+    "date_detection": "2026-11-03T03:09:04.185847",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Ingénieur d'Etat 1er grade à la Présidence de l’UIZ spécialité Architecture",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/df87a1d1-71a8-4e3d-96c2-6156dd3cf0cb"
+    },
+    "numero_issue": 229
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade à la présidence de l’uiz spécialité entrepreneuriat|https://www.emploi-public.ma/fr/concours/details/c7edac9f-1645-4a3f-ade3-6c8c35eabd98",
+    "date_detection": "2026-11-03T03:09:04.185864",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade à la Présidence de l’UIZ spécialité Entrepreneuriat",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c7edac9f-1645-4a3f-ade3-6c8c35eabd98"
+    },
+    "numero_issue": 230
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 2ème grade à la présidence de l’uiz spécialité biotechnologie et sciences de la santé|https://www.emploi-public.ma/fr/concours/details/0802d682-cb6a-4d14-b4ee-9299d0ffa770",
+    "date_detection": "2026-11-03T03:09:04.185868",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 2ème grade à la Présidence de l’UIZ spécialité Biotechnologie et sciences de la santé",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0802d682-cb6a-4d14-b4ee-9299d0ffa770"
+    },
+    "numero_issue": 231
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 3ème grade à la fmp agadir spécialité informatique|https://www.emploi-public.ma/fr/concours/details/e71fcd3e-7771-47e8-a700-fd6db45b4eb0",
+    "date_detection": "2026-11-03T03:09:04.185874",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 3ème grade à la FMP Agadir spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e71fcd3e-7771-47e8-a700-fd6db45b4eb0"
+    },
+    "numero_issue": 232
   }
 ]
