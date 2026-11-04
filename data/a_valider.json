@@ -3478,5 +3478,110 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/e71fcd3e-7771-47e8-a700-fd6db45b4eb0"
     },
     "numero_issue": 232
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire, de la formation professionnelle et de la qualification - département de l’education nationale|avis de concours de recrutement de professeur de l'enseignement secondaire qualifié 2ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/089b0b6f-62e2-4acf-bf7c-42d661636619",
+    "date_detection": "2026-11-04T03:50:59.905050",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
+      "Grade": "Avis de concours de recrutement de Professeur de l'enseignement secondaire qualifié 2ème grade - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026 - 16:30",
+      "Date concours": "28 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/089b0b6f-62e2-4acf-bf7c-42d661636619"
+    },
+    "numero_issue": 233
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire, de la formation professionnelle et de la qualification - département de l’education nationale|avis de concours de recrutement de professeur de l'enseignement secondaire collégial 2ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/94547633-d587-46c5-bfc1-d1c343a0413d",
+    "date_detection": "2026-11-04T03:50:59.905065",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
+      "Grade": "Avis de concours de recrutement de Professeur de l'enseignement secondaire collégial 2ème grade - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026 - 16:30",
+      "Date concours": "28 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/94547633-d587-46c5-bfc1-d1c343a0413d"
+    },
+    "numero_issue": 234
+  },
+  {
+    "id": "ministère de l’education nationale, du préscolaire, de la formation professionnelle et de la qualification - département de l’education nationale|avis de concours de recrutement de professeur de l'enseignement primaire 2ème grade - echelle 10|https://www.emploi-public.ma/fr/concours/details/f773dd7f-be02-42b7-a9d8-c941fef7d31e",
+    "date_detection": "2026-11-04T03:50:59.905071",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Education Nationale, du Préscolaire, de la Formation professionnelle et de la Qualification - Département de l’Education nationale",
+      "Grade": "Avis de concours de recrutement de Professeur de l'enseignement primaire 2ème grade - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026 - 16:30",
+      "Date concours": "28 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f773dd7f-be02-42b7-a9d8-c941fef7d31e"
+    },
+    "numero_issue": 235
+  },
+  {
+    "id": "agence de développement du haut atlas|ingénieur d'etat|https://www.emploi-public.ma/fr/concours/details/db97e14c-cddf-4814-af20-696ed5321a78",
+    "date_detection": "2026-11-04T03:50:59.905093",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence de Développement du Haut Atlas",
+      "Grade": "Ingénieur d'Etat",
+      "Nombre postes": "",
+      "Délai dépôt": "4 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/db97e14c-cddf-4814-af20-696ed5321a78"
+    },
+    "numero_issue": 236
+  },
+  {
+    "id": "agence nationale de la conservation foncière, du cadastre et de la cartographie|ingénieur d’etat en topographie|https://www.emploi-public.ma/fr/concours/details/3e6e787f-dea6-47e0-b55b-5150ae84c897",
+    "date_detection": "2026-11-04T03:50:59.905099",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale de la Conservation Foncière, du Cadastre et de la Cartographie",
+      "Grade": "Ingénieur d’Etat en topographie",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3e6e787f-dea6-47e0-b55b-5150ae84c897"
+    },
+    "numero_issue": 237
+  },
+  {
+    "id": "agence nationale pour le développement des zônes oasiennes et de l'arganier (andzoa)|un cadre au département territorial de guelmim, relevant de la direction de développement des zones de l'arganier (ddza) de l’andzoa)|https://www.emploi-public.ma/fr/concours/details/54c606e1-6466-4e18-bbcc-1ce4d981110e",
+    "date_detection": "2026-11-04T03:50:59.905104",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale pour le développement des Zônes Oasiennes et de l'Arganier (Andzoa)",
+      "Grade": "Un Cadre au Département Territorial de Guelmim, relevant de la Direction de Développement des Zones de l'Arganier (DDZA) de l’ANDZOA)",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/54c606e1-6466-4e18-bbcc-1ce4d981110e"
+    },
+    "numero_issue": 238
+  },
+  {
+    "id": "agence nationale pour le développement des zônes oasiennes et de l'arganier (andzoa)|quatre (4) cadres, spécialité génie civil ou génie rural, au sein de la direction du développement des zones de l’arganier de l’andzoa|https://www.emploi-public.ma/fr/concours/details/af2219c7-ccb5-4f06-b7bf-2e841127d525",
+    "date_detection": "2026-11-04T03:50:59.905108",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Nationale pour le développement des Zônes Oasiennes et de l'Arganier (Andzoa)",
+      "Grade": "Quatre (4) cadres, spécialité Génie Civil ou Génie Rural, au sein de la Direction du Développement des Zones de l’Arganier de l’ANDZOA",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/af2219c7-ccb5-4f06-b7bf-2e841127d525"
+    },
+    "numero_issue": 239
   }
 ]
