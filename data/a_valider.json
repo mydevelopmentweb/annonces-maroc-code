@@ -3733,5 +3733,20 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/b185d242-97b1-41d5-83ed-74581eb0d4c8"
     },
     "numero_issue": 249
+  },
+  {
+    "id": "agence nationale de promotion de l'emploi et des competences|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/4e7ccd79-017c-4878-9383-46c2a8e34123",
+    "date_detection": "2026-11-05T21:40:50.200599",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "AGENCE NATIONALE DE PROMOTION DE L'EMPLOI ET DES COMPETENCES",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "5 Novembre 2026",
+      "Date concours": "21 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4e7ccd79-017c-4878-9383-46c2a8e34123"
+    },
+    "numero_issue": 250
   }
 ]
