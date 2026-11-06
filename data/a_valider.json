@@ -3748,5 +3748,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/4e7ccd79-017c-4878-9383-46c2a8e34123"
     },
     "numero_issue": 250
+  },
+  {
+    "id": "université abdelmalek essaâdi - tétouan|maitre de conférences faculté de médecine et pharmacie - tanger|https://www.emploi-public.ma/fr/concours/details/5f759981-7293-4572-aeca-06a84031a4c0",
+    "date_detection": "2026-11-06T01:54:35.844588",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Abdelmalek Essaâdi - Tétouan",
+      "Grade": "Maitre de conférences Faculté de Médecine et Pharmacie - Tanger",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5f759981-7293-4572-aeca-06a84031a4c0"
+    },
+    "numero_issue": 251
+  },
+  {
+    "id": "sdl marrakech moussafir s.a|محاسب مسؤول عن مراقبة الإيرادات والمقبوضات النقدية|https://www.emploi-public.ma/fr/concours/details/705f6c1a-b4c6-411e-a1a7-e249a4de0781",
+    "date_detection": "2026-11-06T01:54:35.844602",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "SDL MARRAKECH MOUSSAFIR S.A",
+      "Grade": "محاسب مسؤول عن مراقبة الإيرادات والمقبوضات النقدية",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/705f6c1a-b4c6-411e-a1a7-e249a4de0781"
+    },
+    "numero_issue": 252
+  },
+  {
+    "id": "sdl marrakech moussafir s.a|chargé communication, image de marque et partenariats|https://www.emploi-public.ma/fr/concours/details/d19fded1-36a4-4108-8637-69297dbd27bc",
+    "date_detection": "2026-11-06T01:54:35.844606",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "SDL MARRAKECH MOUSSAFIR S.A",
+      "Grade": "Chargé communication, image de marque et partenariats",
+      "Nombre postes": "",
+      "Délai dépôt": "7 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d19fded1-36a4-4108-8637-69297dbd27bc"
+    },
+    "numero_issue": 253
+  },
+  {
+    "id": "fondation ecole centrale casablanca|chargé(e) des achats et logistique|https://www.emploi-public.ma/fr/concours/details/81c9c92e-640b-49c2-a7bf-d1e037deca8e",
+    "date_detection": "2026-11-06T01:54:35.844609",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Fondation Ecole Centrale Casablanca",
+      "Grade": "Chargé(e) des achats et logistique",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/81c9c92e-640b-49c2-a7bf-d1e037deca8e"
+    },
+    "numero_issue": 254
   }
 ]
