@@ -3808,5 +3808,35 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/81c9c92e-640b-49c2-a7bf-d1e037deca8e"
     },
     "numero_issue": 254
+  },
+  {
+    "id": "ministère de l’intérieur -province de tata-|avis de concours de recrutement de administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/0ce1c9ce-1d0d-4ee0-a8cb-5b05f5d4e640",
+    "date_detection": "2026-11-06T21:52:00.472260",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Province de Tata-",
+      "Grade": "Avis de concours de recrutement de Administrateur 2ème grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0ce1c9ce-1d0d-4ee0-a8cb-5b05f5d4e640"
+    },
+    "numero_issue": 255
+  },
+  {
+    "id": "ministère de l’intérieur -province de tata-|avis de concours de recrutement de ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/284c1fe0-0a78-4892-87df-3e083e6a65d2",
+    "date_detection": "2026-11-06T21:52:00.472273",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Province de Tata-",
+      "Grade": "Avis de concours de recrutement de Ingénieur d'Etat 1er grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/284c1fe0-0a78-4892-87df-3e083e6a65d2"
+    },
+    "numero_issue": 256
   }
 ]
