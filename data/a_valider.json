@@ -3853,5 +3853,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/d15483c3-8fb3-4af8-95ac-7c0441ccb98d"
     },
     "numero_issue": 257
+  },
+  {
+    "id": "ministère de la famille, du développement social et de l’égalité|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/17f2da87-11bb-4fb4-8b3c-1712f117c3ce",
+    "date_detection": "2026-11-08T16:50:35.737237",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Famille, du Développement social et de l’Égalité",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/17f2da87-11bb-4fb4-8b3c-1712f117c3ce"
+    },
+    "numero_issue": 258
+  },
+  {
+    "id": "ministère de la famille, du développement social et de l’égalité|adjoint technique 2ème grade|https://www.emploi-public.ma/fr/concours/details/cdda2f24-9751-4129-85a7-220a7716847a",
+    "date_detection": "2026-11-08T16:50:35.737253",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Famille, du Développement social et de l’Égalité",
+      "Grade": "Adjoint technique 2ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "8 Novembre 2026",
+      "Date concours": "15 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cdda2f24-9751-4129-85a7-220a7716847a"
+    },
+    "numero_issue": 259
+  },
+  {
+    "id": "université ibn zohr - agadir|maitres de conférences à la fmp laâyoune|https://www.emploi-public.ma/fr/concours/details/7f527d0e-43b2-4b56-84b2-f2f0fd1ae5ab",
+    "date_detection": "2026-11-08T16:50:35.737256",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitres de conférences à la FMP Laâyoune",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "25 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7f527d0e-43b2-4b56-84b2-f2f0fd1ae5ab"
+    },
+    "numero_issue": 260
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(cadres administratifs (rh 129/2026|https://www.emploi-public.ma/fr/concours/details/08bc8f9f-fbae-488e-8de6-f5259e3ba3b7",
+    "date_detection": "2026-11-08T16:50:35.737258",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Cadres administratifs (RH 129/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/08bc8f9f-fbae-488e-8de6-f5259e3ba3b7"
+    },
+    "numero_issue": 261
   }
 ]
