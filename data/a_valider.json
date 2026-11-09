@@ -3913,5 +3913,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/08bc8f9f-fbae-488e-8de6-f5259e3ba3b7"
     },
     "numero_issue": 261
+  },
+  {
+    "id": "agence marocaine de développement des investissements et des exportations (amdie)|chargé de projets en assistance à maîtrise d’ouvrage|https://www.emploi-public.ma/fr/concours/details/8707fee2-8dd7-4396-be9c-8e0b49865f09",
+    "date_detection": "2026-11-09T00:17:33.279648",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Développement des Investissements et des Exportations (AMDIE)",
+      "Grade": "Chargé de projets en Assistance à Maîtrise d’Ouvrage",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8707fee2-8dd7-4396-be9c-8e0b49865f09"
+    },
+    "numero_issue": 262
+  },
+  {
+    "id": "agence marocaine de développement des investissements et des exportations (amdie)|cadre analyste projets d'investissment|https://www.emploi-public.ma/fr/concours/details/e3e989b0-e4ce-49fc-bee2-78571029dfec",
+    "date_detection": "2026-11-09T00:17:33.279663",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Développement des Investissements et des Exportations (AMDIE)",
+      "Grade": "Cadre analyste Projets d'Investissment",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/e3e989b0-e4ce-49fc-bee2-78571029dfec"
+    },
+    "numero_issue": 263
+  },
+  {
+    "id": "agence marocaine de développement des investissements et des exportations (amdie)|cadre analyste projets de développement|https://www.emploi-public.ma/fr/concours/details/b135e292-d476-4fe6-bbb4-e57c0f73cdf3",
+    "date_detection": "2026-11-09T00:17:33.279666",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Développement des Investissements et des Exportations (AMDIE)",
+      "Grade": "Cadre Analyste Projets de Développement",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b135e292-d476-4fe6-bbb4-e57c0f73cdf3"
+    },
+    "numero_issue": 264
+  },
+  {
+    "id": "agence marocaine de développement des investissements et des exportations (amdie)|cadre analyste comptabilité et finances|https://www.emploi-public.ma/fr/concours/details/26fa5f83-f86b-446e-b293-0104f8494b9d",
+    "date_detection": "2026-11-09T00:17:33.279668",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Développement des Investissements et des Exportations (AMDIE)",
+      "Grade": "Cadre Analyste Comptabilité et finances",
+      "Nombre postes": "",
+      "Délai dépôt": "9 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/26fa5f83-f86b-446e-b293-0104f8494b9d"
+    },
+    "numero_issue": 265
   }
 ]
