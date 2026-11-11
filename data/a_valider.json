@@ -4093,5 +4093,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/03905d86-bfa2-4e5f-9173-f46289658267"
     },
     "numero_issue": 273
+  },
+  {
+    "id": "autorité de contrôle des assurances et de la prévoyance sociale|contrôleur lbc-ft|https://www.emploi-public.ma/fr/concours/details/a71d95c6-0698-4969-b7ca-0b1b0f8dbec2",
+    "date_detection": "2026-11-11T02:22:07.866425",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Autorité de Contrôle des Assurances et de la Prévoyance Sociale",
+      "Grade": "Contrôleur LBC-FT",
+      "Nombre postes": "",
+      "Délai dépôt": "12 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a71d95c6-0698-4969-b7ca-0b1b0f8dbec2"
+    },
+    "numero_issue": 274
+  },
+  {
+    "id": "caisse de dépôt et de gestion|responsable mobilisation des ressources|https://www.emploi-public.ma/fr/concours/details/8c3fbd33-1601-43c0-9826-4849073ab99c",
+    "date_detection": "2026-11-11T02:22:07.866438",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse de Dépôt et de Gestion",
+      "Grade": "Responsable Mobilisation des Ressources",
+      "Nombre postes": "",
+      "Délai dépôt": "12 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8c3fbd33-1601-43c0-9826-4849073ab99c"
+    },
+    "numero_issue": 275
+  },
+  {
+    "id": "centre régional d''investissement tanger tétouan al hoceima|auditeur interne|https://www.emploi-public.ma/fr/concours/details/86eb13d9-2f6b-4154-92d3-d42db70b21a6",
+    "date_detection": "2026-11-11T02:22:07.866441",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Centre Régional d''Investissement Tanger Tétouan Al Hoceima",
+      "Grade": "Auditeur interne",
+      "Nombre postes": "",
+      "Délai dépôt": "12 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/86eb13d9-2f6b-4154-92d3-d42db70b21a6"
+    },
+    "numero_issue": 276
+  },
+  {
+    "id": "maghreb arabe presse|assistant(e) de direction|https://www.emploi-public.ma/fr/concours/details/604f546f-4c20-4c77-a505-78249ae5c5c0",
+    "date_detection": "2026-11-11T02:22:07.866443",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Maghreb Arabe Presse",
+      "Grade": "Assistant(e) de Direction",
+      "Nombre postes": "",
+      "Délai dépôt": "12 Novembre 2026 - 16:30",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/604f546f-4c20-4c77-a505-78249ae5c5c0"
+    },
+    "numero_issue": 277
   }
 ]
