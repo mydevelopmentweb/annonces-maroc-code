@@ -4213,5 +4213,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/0ea3a08f-6bc8-4e5b-aa02-edda057b43b7"
     },
     "numero_issue": 281
+  },
+  {
+    "id": "délégation générale à l'administration pénitentiaire et à la réinsertion|avis de concours de recrutement de commandant pénitentiaire adjoint 1er grade|https://www.emploi-public.ma/fr/concours/details/b2542f15-9180-4680-9a40-56cab838599c",
+    "date_detection": "2026-11-12T13:26:55.237182",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
+      "Grade": "Avis de concours de recrutement de Commandant pénitentiaire adjoint 1er grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026 - 16:30",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b2542f15-9180-4680-9a40-56cab838599c"
+    },
+    "numero_issue": 282
+  },
+  {
+    "id": "délégation générale à l'administration pénitentiaire et à la réinsertion|avis de concours de recrutement de surveillant pénitentiaire chef 2ème grade|https://www.emploi-public.ma/fr/concours/details/cc2bd7ff-97cf-4de3-9665-4e7c05c3c825",
+    "date_detection": "2026-11-12T13:26:55.237196",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
+      "Grade": "Avis de concours de recrutement de Surveillant pénitentiaire chef 2ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026 - 16:30",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cc2bd7ff-97cf-4de3-9665-4e7c05c3c825"
+    },
+    "numero_issue": 283
+  },
+  {
+    "id": "délégation générale à l'administration pénitentiaire et à la réinsertion|avis de concours de recrutement de surveillant pénitentiaire adjoint 2ème grade|https://www.emploi-public.ma/fr/concours/details/c1856307-e18c-4053-8079-1efd4ebd63dd",
+    "date_detection": "2026-11-12T13:26:55.237201",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Délégation générale à l'administration pénitentiaire et à la réinsertion",
+      "Grade": "Avis de concours de recrutement de Surveillant pénitentiaire adjoint 2ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026 - 16:30",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c1856307-e18c-4053-8079-1efd4ebd63dd"
+    },
+    "numero_issue": 284
   }
 ]
