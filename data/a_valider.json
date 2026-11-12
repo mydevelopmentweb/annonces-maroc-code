@@ -4153,5 +4153,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/604f546f-4c20-4c77-a505-78249ae5c5c0"
     },
     "numero_issue": 277
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle pédagogique-casablanca - laâyoune - rabat (rh 132/2026|https://www.emploi-public.ma/fr/concours/details/b94b323a-2c77-4178-bec3-db5ba3cb49e4",
+    "date_detection": "2026-11-12T04:50:21.371368",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle Pédagogique-Casablanca - Laâyoune - Rabat (RH 132/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b94b323a-2c77-4178-bec3-db5ba3cb49e4"
+    },
+    "numero_issue": 278
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à l’est laayoune spécialité informatique|https://www.emploi-public.ma/fr/concours/details/5ac17253-668e-45aa-af57-a6ec2ebef8b0",
+    "date_detection": "2026-11-12T04:50:21.371383",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à l’EST LAAYOUNE spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Novembre 2026",
+      "Date concours": "22 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5ac17253-668e-45aa-af57-a6ec2ebef8b0"
+    },
+    "numero_issue": 279
+  },
+  {
+    "id": "onhym midstream co|cadre environnement|https://www.emploi-public.ma/fr/concours/details/c2697102-aae0-4a0f-ad5a-993abfdcc356",
+    "date_detection": "2026-11-12T04:50:21.371387",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "ONHYM Midstream Co",
+      "Grade": "CADRE ENVIRONNEMENT",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/c2697102-aae0-4a0f-ad5a-993abfdcc356"
+    },
+    "numero_issue": 280
+  },
+  {
+    "id": "office des changes|administrateur systèmes|https://www.emploi-public.ma/fr/concours/details/0ea3a08f-6bc8-4e5b-aa02-edda057b43b7",
+    "date_detection": "2026-11-12T04:50:21.371390",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office des Changes",
+      "Grade": "Administrateur Systèmes",
+      "Nombre postes": "",
+      "Délai dépôt": "13 Novembre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0ea3a08f-6bc8-4e5b-aa02-edda057b43b7"
+    },
+    "numero_issue": 281
   }
 ]
