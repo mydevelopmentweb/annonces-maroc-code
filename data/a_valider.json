@@ -4273,5 +4273,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/bc216516-0478-4fb6-a857-a114988f6cb3"
     },
     "numero_issue": 285
+  },
+  {
+    "id": "caisse de dépôt et de gestion|chargé de développement rh|https://www.emploi-public.ma/fr/concours/details/715392a8-727f-491e-92de-7022b2483e27",
+    "date_detection": "2026-11-13T02:16:15.496309",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Caisse de Dépôt et de Gestion",
+      "Grade": "Chargé de Développement RH",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/715392a8-727f-491e-92de-7022b2483e27"
+    },
+    "numero_issue": 286
+  },
+  {
+    "id": "université mohammed premier - oujda|maitre de conférences au profit de la faculté de médecine et de pharmacie et de médecine dentaire oujda.|https://www.emploi-public.ma/fr/concours/details/cc57b231-8f95-4aba-892b-7f5a2f5e1a2d",
+    "date_detection": "2026-11-13T02:16:15.496322",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Mohammed Premier - Oujda",
+      "Grade": "Maitre de conférences au profit de la Faculté de Médecine et de Pharmacie et de Médecine Dentaire Oujda.",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Novembre 2026 - 16:30",
+      "Date concours": "25 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/cc57b231-8f95-4aba-892b-7f5a2f5e1a2d"
+    },
+    "numero_issue": 287
+  },
+  {
+    "id": "université sidi mohamed ben abdellah -fès-|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/ef29d95b-43bb-4653-b7c3-6633e0471481",
+    "date_detection": "2026-11-13T02:16:15.496326",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Sidi Mohamed Ben Abdellah -Fès-",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Novembre 2026 - 16:30",
+      "Date concours": "30 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ef29d95b-43bb-4653-b7c3-6633e0471481"
+    },
+    "numero_issue": 288
+  },
+  {
+    "id": "université ibn zohr - agadir|maitres de conférences à la fmpa|https://www.emploi-public.ma/fr/concours/details/ea9f30e9-8414-4e27-8624-f38195cc0957",
+    "date_detection": "2026-11-13T02:16:15.496329",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitres de conférences à la FMPA",
+      "Nombre postes": "",
+      "Délai dépôt": "14 Novembre 2026",
+      "Date concours": "25 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ea9f30e9-8414-4e27-8624-f38195cc0957"
+    },
+    "numero_issue": 289
   }
 ]
