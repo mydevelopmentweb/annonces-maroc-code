@@ -4453,5 +4453,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/c2cac2e2-e7b4-4b73-986d-6a662657aa0e"
     },
     "numero_issue": 297
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférence à la esef agadir spécialité instrumentation et traitement de l'information|https://www.emploi-public.ma/fr/concours/details/9cd3606b-21b3-4076-82cd-49ef3dee4c12",
+    "date_detection": "2026-11-15T03:44:17.696167",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférence à la ESEF Agadir spécialité Instrumentation et traitement de l'information",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Novembre 2026",
+      "Date concours": "21 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9cd3606b-21b3-4076-82cd-49ef3dee4c12"
+    },
+    "numero_issue": 298
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférence à l’encg dakhla spécialité droit privé|https://www.emploi-public.ma/fr/concours/details/1ea2d79f-0aa6-4766-bd8a-e487bd173c46",
+    "date_detection": "2026-11-15T03:44:17.696185",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférence à l’ENCG Dakhla spécialité Droit privé",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Novembre 2026",
+      "Date concours": "21 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/1ea2d79f-0aa6-4766-bd8a-e487bd173c46"
+    },
+    "numero_issue": 299
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférence à l’encg dakhla spécialité entrepreneuriat|https://www.emploi-public.ma/fr/concours/details/9ccca16e-da45-42c2-85ec-ba3c67eb824c",
+    "date_detection": "2026-11-15T03:44:17.696189",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférence à l’ENCG Dakhla spécialité Entrepreneuriat",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Novembre 2026",
+      "Date concours": "21 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9ccca16e-da45-42c2-85ec-ba3c67eb824c"
+    },
+    "numero_issue": 300
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférence à l’encg dakhla spécialité gestion|https://www.emploi-public.ma/fr/concours/details/7c53345f-107d-432b-91af-51a51f8fa9ee",
+    "date_detection": "2026-11-15T03:44:17.696192",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférence à l’ENCG Dakhla spécialité Gestion",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Novembre 2026",
+      "Date concours": "21 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7c53345f-107d-432b-91af-51a51f8fa9ee"
+    },
+    "numero_issue": 301
   }
 ]
