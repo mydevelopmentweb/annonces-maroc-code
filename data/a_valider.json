@@ -4513,5 +4513,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/7c53345f-107d-432b-91af-51a51f8fa9ee"
     },
     "numero_issue": 301
+  },
+  {
+    "id": "sdl marrakech moussafir s.a|responsable administratif et financier|https://www.emploi-public.ma/fr/concours/details/51c4cd19-8db4-4513-9f0b-4e9df1899825",
+    "date_detection": "2026-11-16T12:14:21.450277",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "SDL MARRAKECH MOUSSAFIR S.A",
+      "Grade": "Responsable Administratif et Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/51c4cd19-8db4-4513-9f0b-4e9df1899825"
+    },
+    "numero_issue": 306
+  },
+  {
+    "id": "poste maroc|architecte solutions sécurité|https://www.emploi-public.ma/fr/concours/details/99f4a4f2-6f2f-4ab6-9d02-5db8b5fefc34",
+    "date_detection": "2026-11-16T12:14:21.450289",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Poste Maroc",
+      "Grade": "Architecte Solutions Sécurité",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/99f4a4f2-6f2f-4ab6-9d02-5db8b5fefc34"
+    },
+    "numero_issue": 307
+  },
+  {
+    "id": "poste maroc|ingénieur support et exploitation it|https://www.emploi-public.ma/fr/concours/details/f74d25a7-a66b-477e-bf2b-64c7578493e8",
+    "date_detection": "2026-11-16T12:14:21.450293",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Poste Maroc",
+      "Grade": "Ingénieur Support et Exploitation IT",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f74d25a7-a66b-477e-bf2b-64c7578493e8"
+    },
+    "numero_issue": 308
+  },
+  {
+    "id": "chambre de commerce d'industrie et de services de la région de rabat salé kénitra|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/6103dd14-398d-4a32-8d1f-8fabb9eec106",
+    "date_detection": "2026-11-16T12:14:21.450296",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Chambre de commerce d'industrie et de services de la Région de Rabat Salé Kénitra",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "17 Novembre 2026 - 16:00",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6103dd14-398d-4a32-8d1f-8fabb9eec106"
+    },
+    "numero_issue": 309
   }
 ]
