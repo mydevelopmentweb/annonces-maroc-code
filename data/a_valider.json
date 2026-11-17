@@ -4573,5 +4573,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/6103dd14-398d-4a32-8d1f-8fabb9eec106"
     },
     "numero_issue": 309
+  },
+  {
+    "id": "office national des aéroports|diplôme de bac+5ans en sécurité si ou équivalent|https://www.emploi-public.ma/fr/concours/details/343c09fe-2095-410a-9f30-526827804e79",
+    "date_detection": "2026-11-17T04:51:55.573107",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National Des Aéroports",
+      "Grade": "Diplôme de Bac+5ans en Sécurité SI ou équivalent",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/343c09fe-2095-410a-9f30-526827804e79"
+    },
+    "numero_issue": 310
+  },
+  {
+    "id": "office national des aéroports|diplôme de bac+3 ans en management qualité ou équivalent|https://www.emploi-public.ma/fr/concours/details/90d3b0ff-823b-4560-bd1c-8cbad787a887",
+    "date_detection": "2026-11-17T04:51:55.573126",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National Des Aéroports",
+      "Grade": "Diplôme de Bac+3 ans en Management Qualité ou équivalent",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/90d3b0ff-823b-4560-bd1c-8cbad787a887"
+    },
+    "numero_issue": 311
+  },
+  {
+    "id": "office national des aéroports|diplôme de technicien spécialisé (dts) (bac+2ans) en électronique ou systèmes électroniques ou électronique industrielle et automatisme ou électronique et maintenance des équipements industriels|https://www.emploi-public.ma/fr/concours/details/fac24338-9bc3-4dae-8341-f1b431fb43af",
+    "date_detection": "2026-11-17T04:51:55.573131",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National Des Aéroports",
+      "Grade": "Diplôme de Technicien Spécialisé (DTS) (Bac+2ans) en Électronique ou Systèmes Électroniques ou Électronique Industrielle et Automatisme ou Électronique et Maintenance des Équipements Industriels",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/fac24338-9bc3-4dae-8341-f1b431fb43af"
+    },
+    "numero_issue": 312
+  },
+  {
+    "id": "office national des aéroports|diplôme de technicien(ne) spécialisé(e) (dts) ou brevet de technicien(ne) supérieur(e) (bts) (bac+2) ou équivalent en informatique, assorti d’un baccalauréat scientifique ou technique|https://www.emploi-public.ma/fr/concours/details/3850c76d-87d5-48fb-9e29-dabf37b54f64",
+    "date_detection": "2026-11-17T04:51:55.573135",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office National Des Aéroports",
+      "Grade": "Diplôme de Technicien(ne) Spécialisé(e) (DTS) ou Brevet de Technicien(ne) Supérieur(e) (BTS) (Bac+2) ou équivalent en informatique, assorti d’un Baccalauréat Scientifique ou Technique",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3850c76d-87d5-48fb-9e29-dabf37b54f64"
+    },
+    "numero_issue": 313
   }
 ]
