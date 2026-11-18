@@ -4633,5 +4633,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/3850c76d-87d5-48fb-9e29-dabf37b54f64"
     },
     "numero_issue": 313
+  },
+  {
+    "id": "marrakech région sport|responsable administratif et financier|https://www.emploi-public.ma/fr/concours/details/238a23b1-eafc-4d21-95bc-64f8b664781e",
+    "date_detection": "2026-11-18T20:59:12.379704",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Marrakech Région Sport",
+      "Grade": "Responsable Administratif et Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/238a23b1-eafc-4d21-95bc-64f8b664781e"
+    },
+    "numero_issue": 314
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(conseiller en orientation - errachidia (rh 140/2026|https://www.emploi-public.ma/fr/concours/details/a866bd08-82bd-4bc4-930a-a3d77858dc9b",
+    "date_detection": "2026-11-18T20:59:12.379717",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Conseiller en Orientation - Errachidia (RH 140/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a866bd08-82bd-4bc4-930a-a3d77858dc9b"
+    },
+    "numero_issue": 315
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(responsable de la ferme pédagogique - guelmim (rh 141/2026|https://www.emploi-public.ma/fr/concours/details/6d19904f-2145-460d-ab8a-5d02bc74ee08",
+    "date_detection": "2026-11-18T20:59:12.379721",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Responsable de la ferme pédagogique - Guelmim (RH 141/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6d19904f-2145-460d-ab8a-5d02bc74ee08"
+    },
+    "numero_issue": 316
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(formateur en management hôtelier - errachidia (rh 142/2026|https://www.emploi-public.ma/fr/concours/details/f205c15d-264a-42fe-8821-b4db04f40b7f",
+    "date_detection": "2026-11-18T20:59:12.379724",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Formateur en Management hôtelier - Errachidia (RH 142/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f205c15d-264a-42fe-8821-b4db04f40b7f"
+    },
+    "numero_issue": 317
   }
 ]
