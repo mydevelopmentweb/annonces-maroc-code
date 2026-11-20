@@ -4753,5 +4753,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/1d448ba7-7fe9-4498-ae96-44e9135e799a"
     },
     "numero_issue": 321
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle des opérations - errachidia (rh 153/2026|https://www.emploi-public.ma/fr/concours/details/747c4b54-3e2a-4a77-a310-c2f23df4e5b7",
+    "date_detection": "2026-11-20T01:30:31.531728",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle des Opérations - Errachidia (RH 153/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/747c4b54-3e2a-4a77-a310-c2f23df4e5b7"
+    },
+    "numero_issue": 322
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle gestion et commerce - errachidia (rh 154/2026|https://www.emploi-public.ma/fr/concours/details/7d50b278-c694-4107-bfb7-50971fb21023",
+    "date_detection": "2026-11-20T01:30:31.531745",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle gestion et commerce - Errachidia (RH 154/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7d50b278-c694-4107-bfb7-50971fb21023"
+    },
+    "numero_issue": 323
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle tourisme et hôtellerie -errachidia (rh 155/2026|https://www.emploi-public.ma/fr/concours/details/5db011fb-e5bc-4d7e-af69-96f948f7f1fa",
+    "date_detection": "2026-11-20T01:30:31.531748",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle Tourisme et Hôtellerie -Errachidia (RH 155/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5db011fb-e5bc-4d7e-af69-96f948f7f1fa"
+    },
+    "numero_issue": 324
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(conseiller(ère) carrière- errachidia (rh 156/2026|https://www.emploi-public.ma/fr/concours/details/56964206-9ee1-4ccd-accc-8c6aee693803",
+    "date_detection": "2026-11-20T01:30:31.531751",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Conseiller(ère) Carrière- Errachidia (RH 156/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "21 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/56964206-9ee1-4ccd-accc-8c6aee693803"
+    },
+    "numero_issue": 325
   }
 ]
