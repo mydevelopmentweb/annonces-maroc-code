@@ -4813,5 +4813,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/56964206-9ee1-4ccd-accc-8c6aee693803"
     },
     "numero_issue": 325
+  },
+  {
+    "id": "université ibn zohr - agadir|متصرف من الدرجة الثالثة بكلية العلوم الإنسانية و الإجتماعية بالسمارة تخصص لغات أجنبية|https://www.emploi-public.ma/fr/concours/details/3d333fc8-4782-4a6b-a15d-373586ac0548",
+    "date_detection": "2026-11-21T00:28:34.989737",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "متصرف من الدرجة الثالثة بكلية العلوم الإنسانية و الإجتماعية بالسمارة تخصص لغات أجنبية",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/3d333fc8-4782-4a6b-a15d-373586ac0548"
+    },
+    "numero_issue": 326
+  },
+  {
+    "id": "université ibn zohr - agadir|administrateur 3ème grade à la fs agadir spécialité physique|https://www.emploi-public.ma/fr/concours/details/b81d00fe-15f7-45ee-a744-79a1ba07bfdc",
+    "date_detection": "2026-11-21T00:28:34.989754",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Administrateur 3ème grade à la FS Agadir spécialité Physique",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/b81d00fe-15f7-45ee-a744-79a1ba07bfdc"
+    },
+    "numero_issue": 327
+  },
+  {
+    "id": "université ibn zohr - agadir|technicien 3ème grade à la faculté chariâa d’agadir spécialité informatique|https://www.emploi-public.ma/fr/concours/details/94ee0a65-95af-4749-bce2-f63c06ee01c0",
+    "date_detection": "2026-11-21T00:28:34.989758",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Technicien 3ème grade à la Faculté Chariâa d’Agadir spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/94ee0a65-95af-4749-bce2-f63c06ee01c0"
+    },
+    "numero_issue": 328
+  },
+  {
+    "id": "université ibn zohr - agadir|تقني من الدرجة الثالثة بكلية الآداب و العلوم الإنسانية بأكادير تخصص informatique|https://www.emploi-public.ma/fr/concours/details/7e329cb9-9cea-48db-bdd5-84eec9e683f4",
+    "date_detection": "2026-11-21T00:28:34.989761",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "تقني من الدرجة الثالثة بكلية الآداب و العلوم الإنسانية بأكادير تخصص Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "22 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7e329cb9-9cea-48db-bdd5-84eec9e683f4"
+    },
+    "numero_issue": 329
   }
 ]
