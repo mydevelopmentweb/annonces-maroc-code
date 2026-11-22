@@ -4873,5 +4873,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/7e329cb9-9cea-48db-bdd5-84eec9e683f4"
     },
     "numero_issue": 329
+  },
+  {
+    "id": "ecole nationale d’agriculture de meknès|maître de conférences grade a - echelle 11|https://www.emploi-public.ma/fr/concours/details/25f59dc5-c121-414e-b6df-da0fefbf169b",
+    "date_detection": "2026-11-22T01:46:51.489583",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ecole Nationale d’Agriculture de Meknès",
+      "Grade": "Maître de conférences grade A - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026 - 15:29",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/25f59dc5-c121-414e-b6df-da0fefbf169b"
+    },
+    "numero_issue": 330
+  },
+  {
+    "id": "ecole nationale supérieure des mines de rabat|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/14d099d9-217c-4f94-9d70-8be1b4df3c45",
+    "date_detection": "2026-11-22T01:46:51.489594",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ecole Nationale Supérieure des Mines de Rabat",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026 - 16:30",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/14d099d9-217c-4f94-9d70-8be1b4df3c45"
+    },
+    "numero_issue": 331
+  },
+  {
+    "id": "atlas on line /groupe ram|teleconseiller|https://www.emploi-public.ma/fr/concours/details/0581bd18-e42e-42e4-99ff-f7008747084c",
+    "date_detection": "2026-11-22T01:46:51.489597",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Atlas On Line /groupe RAM",
+      "Grade": "TELECONSEILLER",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0581bd18-e42e-42e4-99ff-f7008747084c"
+    },
+    "numero_issue": 332
+  },
+  {
+    "id": "archives du maroc|adjoint administratif 2ème grade|https://www.emploi-public.ma/fr/concours/details/8fba9c56-1c15-4e3b-b770-99fdbc718b60",
+    "date_detection": "2026-11-22T01:46:51.489599",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Archives du Maroc",
+      "Grade": "Adjoint administratif 2ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026 - 16:30",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8fba9c56-1c15-4e3b-b770-99fdbc718b60"
+    },
+    "numero_issue": 333
   }
 ]
