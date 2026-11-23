@@ -4933,5 +4933,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/8fba9c56-1c15-4e3b-b770-99fdbc718b60"
     },
     "numero_issue": 333
+  },
+  {
+    "id": "ministère de l’intérieur -province de tata-|ingénieur d'etat 1er grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/284c1fe0-0a78-4892-87df-3e083e6a65d2",
+    "date_detection": "2026-11-23T03:25:21.048996",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Province de Tata-",
+      "Grade": "Ingénieur d'Etat 1er grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/284c1fe0-0a78-4892-87df-3e083e6a65d2"
+    },
+    "numero_issue": 334
+  },
+  {
+    "id": "ministère de l’intérieur -province de tata-|administrateur 2ème grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/0ce1c9ce-1d0d-4ee0-a8cb-5b05f5d4e640",
+    "date_detection": "2026-11-23T03:25:21.049008",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’intérieur -Province de Tata-",
+      "Grade": "Administrateur 2ème grade - echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "23 Novembre 2026",
+      "Date concours": "29 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/0ce1c9ce-1d0d-4ee0-a8cb-5b05f5d4e640"
+    },
+    "numero_issue": 335
+  },
+  {
+    "id": "ministère de l’economie, des finances et de la performance publique|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/03905d86-bfa2-4e5f-9173-f46289658267",
+    "date_detection": "2026-11-23T03:25:21.049015",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de l’Economie, des Finances et de la Performance publique",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Novembre 2026 - 16:30",
+      "Date concours": "27 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/03905d86-bfa2-4e5f-9173-f46289658267"
+    },
+    "numero_issue": 336
+  },
+  {
+    "id": "agence marocaine de développement de la logistique|cadre au service ingénierie technique|https://www.emploi-public.ma/fr/concours/details/f51c242a-fe73-43a2-956e-b16643edeac1",
+    "date_detection": "2026-11-23T03:25:21.049019",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence Marocaine de Développement de la Logistique",
+      "Grade": "Cadre au service ingénierie technique",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/f51c242a-fe73-43a2-956e-b16643edeac1"
+    },
+    "numero_issue": 337
   }
 ]
