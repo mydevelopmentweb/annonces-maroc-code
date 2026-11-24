@@ -4993,5 +4993,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/f51c242a-fe73-43a2-956e-b16643edeac1"
     },
     "numero_issue": 337
+  },
+  {
+    "id": "société de développement local rabat voyageur|responsable d’exploitation de la gare routière|https://www.emploi-public.ma/fr/concours/details/90f5f2af-bcbb-4d5e-b770-cc2c89290993",
+    "date_detection": "2026-11-24T01:21:37.564344",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société de développement local Rabat Voyageur",
+      "Grade": "Responsable d’Exploitation de la gare Routière",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/90f5f2af-bcbb-4d5e-b770-cc2c89290993"
+    },
+    "numero_issue": 338
+  },
+  {
+    "id": "agence de développement du haut atlas|َadministrateur|https://www.emploi-public.ma/fr/concours/details/5c0ff238-2b8c-4b7e-ad90-f8a5bc8d7523",
+    "date_detection": "2026-11-24T01:21:37.564356",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence de Développement du Haut Atlas",
+      "Grade": "َAdministrateur",
+      "Nombre postes": "",
+      "Délai dépôt": "24 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/5c0ff238-2b8c-4b7e-ad90-f8a5bc8d7523"
+    },
+    "numero_issue": 339
+  },
+  {
+    "id": "université ibn zohr - agadir|أستاذ محاضر بكلية العلوم الإنسانية و الاجتماعية بالسمارة تخصص علم الاجتماع|https://www.emploi-public.ma/fr/concours/details/4cdf863d-a52c-4bf9-bf51-d214092a9c08",
+    "date_detection": "2026-11-24T01:21:37.564360",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "أستاذ محاضر بكلية العلوم الإنسانية و الاجتماعية بالسمارة تخصص علم الاجتماع",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Novembre 2026",
+      "Date concours": "30 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4cdf863d-a52c-4bf9-bf51-d214092a9c08"
+    },
+    "numero_issue": 340
+  },
+  {
+    "id": "université ibn zohr - agadir|maître de conférences à la feg taroudant spécialité economie et gestion|https://www.emploi-public.ma/fr/concours/details/8c0990e7-09ce-4dcb-b765-b9ad810cefb5",
+    "date_detection": "2026-11-24T01:21:37.564363",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maître de conférences à la FEG Taroudant spécialité Economie et gestion",
+      "Nombre postes": "",
+      "Délai dépôt": "25 Novembre 2026",
+      "Date concours": "30 Novembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/8c0990e7-09ce-4dcb-b765-b9ad810cefb5"
+    },
+    "numero_issue": 341
   }
 ]
