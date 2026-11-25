@@ -5158,5 +5158,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/06f2df84-0753-47a3-95b9-4aa040df8c72"
     },
     "numero_issue": 348
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|administrateur 2eme grade|https://www.emploi-public.ma/fr/concours/details/260ea819-855a-4c97-a553-ce9d06b464a5",
+    "date_detection": "2026-11-25T04:40:55.146102",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "administrateur 2eme grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/260ea819-855a-4c97-a553-ce9d06b464a5"
+    },
+    "numero_issue": 349
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|technicien de 3ème grade|https://www.emploi-public.ma/fr/concours/details/a308f369-e882-4c42-871d-acb07d5c6d2e",
+    "date_detection": "2026-11-25T04:40:55.146114",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "Technicien de 3ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a308f369-e882-4c42-871d-acb07d5c6d2e"
+    },
+    "numero_issue": 350
+  },
+  {
+    "id": "univesité chouaïb doukkali - el jadida|technicien de 3ème grade|https://www.emploi-public.ma/fr/concours/details/aa40ad09-1cb6-4408-b1a7-7507ee9673ed",
+    "date_detection": "2026-11-25T04:40:55.146118",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Univesité Chouaïb Doukkali - El Jadida",
+      "Grade": "Technicien de 3ème grade",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/aa40ad09-1cb6-4408-b1a7-7507ee9673ed"
+    },
+    "numero_issue": 351
+  },
+  {
+    "id": "société rabat région emergence|cadre « qhse » (qualité, hygiène, sécurité, environnement)|https://www.emploi-public.ma/fr/concours/details/ab9f6308-971d-43f6-b095-279d67e78eae",
+    "date_detection": "2026-11-25T04:40:55.146121",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Société Rabat Région Emergence",
+      "Grade": "Cadre « QHSE » (Qualité, Hygiène, Sécurité, Environnement)",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026 - 16:00",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/ab9f6308-971d-43f6-b095-279d67e78eae"
+    },
+    "numero_issue": 352
   }
 ]
