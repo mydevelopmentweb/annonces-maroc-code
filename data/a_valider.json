@@ -5218,5 +5218,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/ab9f6308-971d-43f6-b095-279d67e78eae"
     },
     "numero_issue": 352
+  },
+  {
+    "id": "agence nationale du soutien social|technicien(ne) spécialisé(e) de support audio visuel et logistique|https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832",
+    "date_detection": "2026-11-26T05:53:55.579922",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence nationale du soutien social",
+      "Grade": "Technicien(ne) spécialisé(e) de support audio visuel et logistique",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/2fef0122-6371-4de3-af5f-54385044d832"
+    },
+    "numero_issue": 353
+  },
+  {
+    "id": "agence nationale du soutien social|chargés (e) de support polyvalent aux représentations territoriales sidi kacem et taounate|https://www.emploi-public.ma/fr/concours/details/36772c93-6f04-4bc0-9735-3047873ab2c8",
+    "date_detection": "2026-11-26T05:53:55.579948",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence nationale du soutien social",
+      "Grade": "Chargés (e) de Support Polyvalent aux Représentations Territoriales Sidi Kacem et Taounate",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/36772c93-6f04-4bc0-9735-3047873ab2c8"
+    },
+    "numero_issue": 354
+  },
+  {
+    "id": "agence nationale du soutien social|technicien(ne) spécialisé(e) en bâtiment|https://www.emploi-public.ma/fr/concours/details/98f8f5aa-a77c-4571-8490-2ecfd8f0404f",
+    "date_detection": "2026-11-26T05:53:55.579951",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence nationale du soutien social",
+      "Grade": "Technicien(ne) spécialisé(e) en Bâtiment",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/98f8f5aa-a77c-4571-8490-2ecfd8f0404f"
+    },
+    "numero_issue": 355
+  },
+  {
+    "id": "agence nationale du soutien social|cadre comptable et financier|https://www.emploi-public.ma/fr/concours/details/6889432a-3c29-4c7a-a903-b8d321b07009",
+    "date_detection": "2026-11-26T05:53:55.579953",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Agence nationale du soutien social",
+      "Grade": "Cadre Comptable et Financier",
+      "Nombre postes": "",
+      "Délai dépôt": "26 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/6889432a-3c29-4c7a-a903-b8d321b07009"
+    },
+    "numero_issue": 356
   }
 ]
