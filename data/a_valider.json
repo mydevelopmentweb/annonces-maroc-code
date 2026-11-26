@@ -5278,5 +5278,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/6889432a-3c29-4c7a-a903-b8d321b07009"
     },
     "numero_issue": 356
+  },
+  {
+    "id": "ministère de la santé et de la protection sociale|avis de concours de recrutement de technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/91221b77-0392-49e0-8e6c-b1ca9bb70b9e",
+    "date_detection": "2026-11-26T16:00:15.644036",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Santé et de la Protection sociale",
+      "Grade": "Avis de concours de recrutement de Technicien de 3ème grade - Echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "19 Février 2027 - 16:30",
+      "Date concours": "7 Mars 2027",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/91221b77-0392-49e0-8e6c-b1ca9bb70b9e"
+    },
+    "numero_issue": 357
+  },
+  {
+    "id": "ministère de la santé et de la protection sociale|avis de concours de recrutement de pharmacien premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/7d32403a-c665-4897-9772-13e69b32b643",
+    "date_detection": "2026-11-26T16:00:15.644054",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Santé et de la Protection sociale",
+      "Grade": "Avis de concours de recrutement de Pharmacien premier grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Décembre 2026 - 16:30",
+      "Date concours": "3 Janvier 2027",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7d32403a-c665-4897-9772-13e69b32b643"
+    },
+    "numero_issue": 358
+  },
+  {
+    "id": "ministère de la santé et de la protection sociale|avis de concours de recrutement de médecins premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/9d21f49c-97f2-47af-83e0-33d28ee13922",
+    "date_detection": "2026-11-26T16:00:15.644058",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Santé et de la Protection sociale",
+      "Grade": "Avis de concours de recrutement de Médecins premier grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Décembre 2026 - 16:30",
+      "Date concours": "3 Janvier 2027",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/9d21f49c-97f2-47af-83e0-33d28ee13922"
+    },
+    "numero_issue": 359
   }
 ]
