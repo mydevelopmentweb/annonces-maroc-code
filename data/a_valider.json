@@ -5383,5 +5383,50 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/06d52826-b77a-46fa-a104-9593ae1e01c2"
     },
     "numero_issue": 363
+  },
+  {
+    "id": "conseil supérieur du pouvoir judiciaire|avis de concours de recrutement de attaché de justice - echelle 10|https://www.emploi-public.ma/fr/concours/details/7e420de1-8966-4368-90fb-d80f4e230cd0",
+    "date_detection": "2026-11-27T16:39:40.197781",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Conseil Supérieur du Pouvoir Judiciaire",
+      "Grade": "Avis de concours de recrutement de Attaché de justice - Echelle 10",
+      "Nombre postes": "",
+      "Délai dépôt": "18 Décembre 2026 - 16:30",
+      "Date concours": "29 Janvier 2027",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7e420de1-8966-4368-90fb-d80f4e230cd0"
+    },
+    "numero_issue": 364
+  },
+  {
+    "id": "ministère de la santé et de la protection sociale|avis de concours de recrutement de pharmacien premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/32478282-4603-43aa-954e-d392e3e2ff29",
+    "date_detection": "2026-11-27T16:39:40.197795",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Santé et de la Protection sociale",
+      "Grade": "Avis de concours de recrutement de Pharmacien premier grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Décembre 2026 - 16:30",
+      "Date concours": "20 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/32478282-4603-43aa-954e-d392e3e2ff29"
+    },
+    "numero_issue": 365
+  },
+  {
+    "id": "ministère de la santé et de la protection sociale|avis de concours de recrutement de médecins premier grade - echelle 11|https://www.emploi-public.ma/fr/concours/details/4a766760-a2c7-424b-be18-811cecb52459",
+    "date_detection": "2026-11-27T16:39:40.197798",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Ministère de la Santé et de la Protection sociale",
+      "Grade": "Avis de concours de recrutement de Médecins premier grade - Echelle 11",
+      "Nombre postes": "",
+      "Délai dépôt": "16 Décembre 2026 - 16:30",
+      "Date concours": "20 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/4a766760-a2c7-424b-be18-811cecb52459"
+    },
+    "numero_issue": 366
   }
 ]
