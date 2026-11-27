@@ -5323,5 +5323,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/9d21f49c-97f2-47af-83e0-33d28ee13922"
     },
     "numero_issue": 359
+  },
+  {
+    "id": "province de guercif|technicien de 4ème grade - echelle 8|https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c",
+    "date_detection": "2026-11-27T00:20:00.083092",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Province de Guercif",
+      "Grade": "Technicien de 4ème grade - echelle 8",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Novembre 2026",
+      "Date concours": "19 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/bc713631-4f00-469f-8a0d-afbb4365335c"
+    },
+    "numero_issue": 360
+  },
+  {
+    "id": "archives du maroc|technicien de 3ème grade - echelle 9|https://www.emploi-public.ma/fr/concours/details/bd7335ac-7717-405f-8948-ebcd3598acbc",
+    "date_detection": "2026-11-27T00:20:00.083105",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Archives du Maroc",
+      "Grade": "Technicien de 3ème grade - echelle 9",
+      "Nombre postes": "",
+      "Délai dépôt": "27 Novembre 2026",
+      "Date concours": "6 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/bd7335ac-7717-405f-8948-ebcd3598acbc"
+    },
+    "numero_issue": 361
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(chef de pôle digital et intelligence artificielle - marrakech (rh 178/2026|https://www.emploi-public.ma/fr/concours/details/d9ce7fcb-12f3-425b-99f7-e258f89285e5",
+    "date_detection": "2026-11-27T00:20:00.083107",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Chef de pôle Digital et Intelligence Artificielle - Marrakech (RH 178/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/d9ce7fcb-12f3-425b-99f7-e258f89285e5"
+    },
+    "numero_issue": 362
+  },
+  {
+    "id": "office de la formation professionnelle et de la promotion du travail|(conseiller(ère) en orientation-al hoceima – bouarfa – guelmim – sidi slimane – taounate - zagora (rh 179/2026|https://www.emploi-public.ma/fr/concours/details/06d52826-b77a-46fa-a104-9593ae1e01c2",
+    "date_detection": "2026-11-27T00:20:00.083110",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Office de la Formation Professionnelle et de la Promotion du Travail",
+      "Grade": "(Conseiller(ère) en Orientation-Al Hoceima – Bouarfa – Guelmim – Sidi Slimane – Taounate - Zagora (RH 179/2026",
+      "Nombre postes": "",
+      "Délai dépôt": "28 Novembre 2026",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/06d52826-b77a-46fa-a104-9593ae1e01c2"
+    },
+    "numero_issue": 363
   }
 ]
