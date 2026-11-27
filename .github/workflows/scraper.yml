@@ -2,23 +2,24 @@ name: Scraper concours emploi-public.ma
 
 on:
   schedule:
-    # Toutes les heures, jour et nuit
     - cron: "0 * * * *"
-  workflow_dispatch: {}  # permet aussi de le lancer manuellement depuis GitHub
+  workflow_dispatch:
 
 permissions:
-  contents: write  # autorise le workflow à sauvegarder les résultats dans le dépôt
-  issues: write    # autorise le workflow à créer des Issues de validation
+  contents: write
+  issues: write
+
+concurrency:
+  group: scraper
+  cancel-in-progress: false
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - name: Récupérer le code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Installer Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -28,7 +29,7 @@ jobs:
       - name: Lancer le scraper
         run: python scraper.py
 
-      - name: Créer les Issues de validation
+      - name: Créer les Issues à valider
         run: python creer_issues.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,5 +39,10 @@ jobs:
           git config user.name "scraper-bot"
           git config user.email "scraper-bot@users.noreply.github.com"
           git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Mise à jour automatique des concours détectés"
-          git push
+          if git diff --cached --quiet; then
+            echo "Rien de nouveau à sauvegarder"
+          else
+            git commit -m "Mise à jour des données"
+            git pull --rebase origin main
+            git push
+          fi
