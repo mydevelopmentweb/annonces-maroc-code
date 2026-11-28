@@ -5428,5 +5428,65 @@
       "lien": "https://www.emploi-public.ma/fr/concours/details/4a766760-a2c7-424b-be18-811cecb52459"
     },
     "numero_issue": 366
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférences à la faculté des sciences appliquées à ouarzazate spécialité informatique|https://www.emploi-public.ma/fr/concours/details/08b09353-5bd4-41ea-a636-890ac5fc5896",
+    "date_detection": "2026-11-28T02:21:37.061495",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférences à la Faculté des sciences appliquées à Ouarzazate spécialité Informatique",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Novembre 2026",
+      "Date concours": "8 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/08b09353-5bd4-41ea-a636-890ac5fc5896"
+    },
+    "numero_issue": 367
+  },
+  {
+    "id": "université ibn zohr - agadir|maitre de conférences à la fac.d'economie et de gestion de taroudant spécialité mathématiques appliquéess|https://www.emploi-public.ma/fr/concours/details/a082b027-6772-43c0-b60e-e9437140229f",
+    "date_detection": "2026-11-28T02:21:37.061509",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Ibn Zohr - Agadir",
+      "Grade": "Maitre de conférences à la Fac.d'Economie et de Gestion de Taroudant Spécialité Mathématiques appliquéess",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Novembre 2026",
+      "Date concours": "8 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/a082b027-6772-43c0-b60e-e9437140229f"
+    },
+    "numero_issue": 368
+  },
+  {
+    "id": "université abdelmalek essaâdi - tétouan|maîtres de conférences en médecine et pharmacie session 10 décembre 2026 à la faculté de médecine et pharmacie tanger|https://www.emploi-public.ma/fr/concours/details/debd09a4-a7a0-44e6-ab97-9b17ee80e6e1",
+    "date_detection": "2026-11-28T02:21:37.061515",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Abdelmalek Essaâdi - Tétouan",
+      "Grade": "Maîtres de Conférences en Médecine et Pharmacie session 10 Décembre 2026 à la Faculté de Médecine et Pharmacie Tanger",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Novembre 2026 - 16:30",
+      "Date concours": "",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/debd09a4-a7a0-44e6-ab97-9b17ee80e6e1"
+    },
+    "numero_issue": 369
+  },
+  {
+    "id": "université hassan ii - casablanca|maitre de conférence au profit de la faculté de médecine et de pharmacie beni mellal|https://www.emploi-public.ma/fr/concours/details/7779f529-6e55-4b06-bebd-0976c1c2429d",
+    "date_detection": "2026-11-28T02:21:37.061518",
+    "statut": "issue_creee",
+    "donnees": {
+      "Administration organisatrice": "Université Hassan II - Casablanca",
+      "Grade": "Maitre de conférence au profit de la Faculté de Médecine et de Pharmacie Beni Mellal",
+      "Nombre postes": "",
+      "Délai dépôt": "29 Novembre 2026 - 16:30",
+      "Date concours": "10 Décembre 2026",
+      "Date publication": "",
+      "lien": "https://www.emploi-public.ma/fr/concours/details/7779f529-6e55-4b06-bebd-0976c1c2429d"
+    },
+    "numero_issue": 370
   }
 ]
